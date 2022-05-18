@@ -9,6 +9,9 @@ https://paneltv.net:3145/hybrid/play.m3u8
 
 #EXTINF:1,-CANALES EXTRA-
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO" group-title="CANALES EXTRA",MUTV (ENLACE EXTERNO)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV LIBERTADORES (ENLACE EXTERNO)
 https://panel.streamingmedia.com.co:3104/live/libertadores.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV LA LIGA (ENLACE EXTERNO)
@@ -142,8 +145,8 @@ https://5eae379fb77bb.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8
 https://5eff35271151c.streamlock.net:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-id="335" tvg-name="VTV" tvg-logo="https://www.m3u.cl/logo/335_VTV.png" group-title="CANALES REGIONALES" , VTV | CL
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="CANALES REGIONALES", HUANHUATV | CL
-https://5eff35271151c.streamlock.net:1936/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://puranoticia.pnt.cl/cms/imag/v1/logos/logo_main.png" group-title="CANALES REGIONALES", PURANOTICIA TV
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="334" tvg-name="Canal 74 TeVe" tvg-logo="https://www.m3u.cl/logo/334_Canal_74_TeVe.png" group-title="CANALES REGIONALES" , Canal 74 TeVé | CL
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="TV Costa" tvg-logo="https://www.m3u.cl/logo/332_TV_Costa.jpg" group-title="CANALES REGIONALES" , TV Costa | CL

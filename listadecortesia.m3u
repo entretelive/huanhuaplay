@@ -9,9 +9,6 @@ https://paneltv.net:3145/hybrid/play.m3u8
 
 #EXTINF:1,-CANALES EXTRA-
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO" group-title="CANALES EXTRA",MUTV (ENLACE EXTERNO)
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV LIBERTADORES (ENLACE EXTERNO)
 https://panel.streamingmedia.com.co:3104/live/libertadores.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV LA LIGA (ENLACE EXTERNO)
@@ -28,7 +25,8 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="CANALES EXTRA",DeporTV (ENLACE EXTERNO)
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://mundo-r.com/bundles/app/images/channels/realmadridtv_200x200.png" group-title="CANALES EXTRA",Real Madrid TV (ENLACE EXTERNO)
-http://154.62.74.11:1935/live/realmadridnntv/chunklist_w1062028841.m3u8
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1652982804~acl=%2f*~data=hdntl~hmac=37ca42c0bcba29abe779a7eaeb7d081863fedc93c3e5305461dd2f0d1f23cdd9#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KO4JBkqSO_HLxnagnPyOcfeHz2kRZQ9raAFwHftdtAkdqw0WBdFg3HIudB6zLCaNctAO" group-title="CANALES EXTRA",MUTV (ENLACE EXTERNO)
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://www.m3u.cl/logo/1098_CRTV.png" group-title="CANALES EXTRA", CRTV * | CL (ENLACE EXTERNO)
 https://srv.panelcast.net/crtv/crtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/09Azg0q.png" group-title="CANALES EXTRA", TV Turf Movil (ENLACE EXTERNO)

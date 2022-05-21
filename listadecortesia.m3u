@@ -2,11 +2,14 @@
 
 #EXTINF:1,-HUANHUATV PPV-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV PRUEBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD
 https://cloud2.streaminglivehd.com:1936/huanhuatv-1/huanhuatv-1/chunklist_w1901603691.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV op1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD
+https://cloud2.streaminglivehd.com:1936/huanhuatv-1/huanhuatv-1/chunklist_w1906492691.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV SD
 https://paneltv.net:3145/hybrid/play.m3u8?listahuanhuaplay.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV op2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV SD
 https://paneltv.net:3145/hybrid/play.m3u8
 
 #EXTINF:1,-CANALES EXTRA-

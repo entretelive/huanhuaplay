@@ -7,6 +7,11 @@ https://paneltv.net:3145/hybrid/play.m3u8?listahuanhuaplay.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD Op2
 https://paneltv.net:3145/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV PRUEBA
+https://stmv2.zcastbr.com/sergioleon/sergioleon/chunklist_w413936427.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV PRUEBA
+https://stmv2.zcastbr.com/sergioleon/sergioleon/chunklist_w895535030.m3u8
+
 
 #EXTINF:1,-CANALES EXTRA-
 

@@ -2,14 +2,9 @@
 
 #EXTINF:1,-HUANHUATV PPV-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD Op1
-https://paneltv.net:3145/hybrid/play.m3u8?listahuanhuaplay.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD Op2
-https://paneltv.net:3145/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV  
 https://stmv1.zcastbr.com/huanhuatv/huanhuatv/chunklist_w366597229.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV PRUEBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
 https://stmv1.zcastbr.com/huanhuatv/huanhuatv/chunklist_w895535030.m3u8
 
 

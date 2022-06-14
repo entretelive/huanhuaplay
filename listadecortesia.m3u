@@ -2,12 +2,12 @@
 
 #EXTINF:1,-HUANHUATV PPV-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV FULLHD
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CqQFFgMKbsA7Yp-930XwwLC1k4eA4PagJQLtiYT2Es40_J76TA-psyRnglC-q5cjon_I6etixZktWNr161ZBfXgS8gnP5ZqPv2AwZBPPsf0sVvE0sb_YbYEhQdkq5WqvsLzO34630YcNvv2Gb648GnDuL7t6ar2m7Sw2PtoLy1zJvVe6dG_54uk55ZMcLYk5zlH7HHNcXP1p8cmVOcuQKniqOAh3XKrU6RgIgl8e1MXwY4Z1VS4Uh_NPPzKH0_VOprbXp_vEnk_6_SE-jfnQZk_DxHDbEEFe9QORREvbcWrVVN01nRMRAeicOIU6vbuhNCb7ednanum1jMLvrP6xXuEXUl9NYFBkcjyGVGywM72NdM0t3RlrBiLrWMKMcEGH4bLbRKaNlbbr3gyxdjcemAAd3uFrS1811SQrNNs7J4Ls5JZw7JOtASSfDToDqPDO8cAUZ_vlPo3_bq3pD3hUSn4t45bUmpZa6Gs5we-fMXPQvjBPRQGZzFdigRoFpj01uHz6UqBdOmPl9tvUdNB6Gsf8niJy-8ToCjOhR1QvZmVp5ffq8PvcP8G4Dr9xuTgeW9kNp5LtJx26G78NgEMU3kU3CrRzIciRiPsU5SNhn9an9SVHkQ2qyGQm4V-4Aw6bwBZf2IczUlmOWw8CO8OZ_Ub5KibKRiJwFCn2-NJvPj8Y1YxycjMehd-05tkFosSthMB_sbOq_kPZLIl6XgO9HGGfW1zWUSAuq2dBGTY4cdHBsd8nYKCtyP0uFQT4-hN95Wip-VWG7sRNk8Wccxa3TFcr_0TRVV33A7uFQ7f85lXL5YINMJZjNQs0OXqw7ah23_58pFXhAUYcVAXsf3k46h9Z1OtN28OOSWNWV08A0pN2b2nCdab1HJhwduQ_FxyhoxVrStyM6hoMTBYyQlSd8xFqxuQ6IAEqCXVzLWVhc3QtMjD2Aw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV  
 https://mediacpstreamchile.com:1936/huanhuatv/huanhuatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
 https://mediacpstreamchile.com:1936/huanhuatv/huanhuatv/playlist.m3u8?huanhuaplay.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", PPV INGLATERRA VS HUNGRIA 
+https://panel.streamingmedia.com.co:3104/live/gdc.m3u8
 
 #EXTINF:1,-CANALES EXTRA-
 

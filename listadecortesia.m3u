@@ -388,14 +388,12 @@ http://95.216.28.90:8012/;
 https://s2.radio.co/s9ecef4f68/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/rg4rbgq2qdh6.png" group-title="RADIOS ROCK Y POP",Radio Contemporanea Aconcagua
 http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
-#EXTINF:-1 tvg-logo="http://www.naranjaradio.cl/wp-content/uploads/2021/05/PicsArt_05-23-09.45.26-150x150.png" group-title="RADIOS ROCK Y POP, Naranja Radio
-http://node-22.zeno.fm/m6cn8ty0ag0uv?hash=1630257404964.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/x8dmvjrhpzkq.png" group-title="RADIOS ROCK Y POP",Radio Zeta Online
-https://unlimited1-cl-movistar.dps.live/radioztv/radioztv.smil/radioztv/livestream2/chunks.m3u8
+https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/plbkpc649v9x.jpg" group-title="RADIOS ROCK Y POP",Maxima FM Online
-http://servidor1.oklanet.cl:8006/stream
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2021/02/cropped-ICON-33.png" group-title="RADIOS ROCK Y POP",REWIND CHILE
-https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w476854486.m3u8
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Digital FM Nacional
 https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Arica
@@ -421,13 +419,13 @@ http://radio.digitalfm.cl:8000/puertomontt1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Punta Arenas
 http://radio.digitalfm.cl:8000/ptaarenas
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dhdwjn3lyjtg.jpg" group-title="RADIOS ROCK Y POP",Radio Rock Chileno Online
-http://108.163.197.114:8113/stream?1554070432031.mp3
+http://cp2.shoutcheap.com:8300/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s84637/images/logog.jpg?t=152458" group-title="RADIOS ROCK Y POP",Radio Ritoque Valparaiso
 http://sonando.us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1 tvg-logo="https://www.vinafm.cl/vinafm/site/artic/20181205/imag/foto_0000000320181205132824/LOGO_VInAFM_OSCURO_CON_DIAL.png" group-title="RADIOS ROCK Y POP",Viña FM
 https://janus.vinafm.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/wGqaMFYxRP.jpg" group-title="RADIOS ROCK Y POP",Concierto Santiago
-https://21933.live.streamtheworld.com/CONCIERTOAAC_SC
+https://24383.live.streamtheworld.com/CONCIERTOAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rWue2rVhYk.jpg" group-title="RADIOS ROCK Y POP",Universo Santiago
 https://unlimited11-cl.dps.live/universo/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/axphcaduq9nq.jpg" group-title="RADIOS ROCK Y POP",Club 80 Retro
@@ -435,11 +433,9 @@ https://ecuamedios.net/8022/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mjhtydpfhmae.jpg" group-title="RADIOS ROCK Y POP",Club 80 Dance
 https://ecuamedios.net/7024/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/zmafrq6mg8rb.jpg" group-title="RADIOS ROCK Y POP",Enfasis Villa Alemana
-https://server6.hostradios.com/8520/listen.mp3?_=1
+https://player.voxhdnet.com/proxy/7108
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jlng6ty5ybzk.jpg" group-title="RADIOS ROCK Y POP",Radio Somos de Limache
-http://200.24.229.253:8230/stream/1/
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/MUCVXLeC39.png" group-title="RADIOS ROCK Y POP",Sónar FM Santiago
-https://us-b4-pe-ev5-audio.cdn.mdstrm.com/live-audio-aw/5c915724519bce27671c4d15
+http://audio0.tustreaming.cl:7110/stream
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/futuro.png" group-title="RADIOS ROCK Y POP",Futuro Santago
 https://20323.live.streamtheworld.com/FUTUROAAC_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jbtjbakey9qs.jpeg" group-title="RADIOS ROCK Y POP",Nostalgica Plus Copiapo
@@ -589,4 +585,48 @@ https://app.viloud.tv/hls/channel/f2eb3ddf5eb0bf6e040db535a7150e1e.m3u8
 
 #EXTINF:-1 tvg-logo="https://iniciaradio.cl/wp-content/uploads/2020/09/logo-web-inicia-radio-blanco-FINAL.png" group-title="RADIOS RELIGIOSAS",Inicia Radio
 https://hls-audio-cl-1-isp.dps.live/inicia/gotardis/audio/now/livestream1.m3u8
+
+#EXTINF:0,-RADIOS EXTRANJERAS-
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia0I-7jl4rArifxkHAdr44D-XUFvJg44oBwRDgrsNL3txXm-zVOCUiawbR27LUvNhycOS_sY6-cJgrbXu8MMxJXwxPLfU6u73rlMChzBuu8QTGwnhUkaNH1lR3d0FypCk7wHgJ1uLX5YarobY8hl5eky8z1Z7qZfL6GF1nBi2f4V-st8fOGJv6az3uzw/s1933/DS%201031.png" group-title="RADIOS EXTRANJERAS",DIRECTV SPORTS RADIO ARGENTINA
+https://20823.live.streamtheworld.com/UNOAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Q8rkWrGME2.jpeg" group-title="RADIOS EXTRANJERAS",RADIO LA RED ARGENTINA
+https://26653.live.streamtheworld.com/LA_RED_AM910AAC_SC
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EhtP8SZz3k.png" group-title="RADIOS EXTRANJERAS",RADIO CONTINENTAL ARGENTINA
+https://22823.live.streamtheworld.com/CONTINENTALAAC_SC
+ 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zdW6jjDrDq.jpg" group-title="RADIOS EXTRANJERAS",FM ROCK AND POP ARGENTINA
+https://26643.live.streamtheworld.com/ROCKANDPOPAAC_SC
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
+
+
+#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
 

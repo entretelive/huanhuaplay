@@ -2080,11 +2080,11 @@ https://app.viloud.tv/hls/channel/f2eb3ddf5eb0bf6e040db535a7150e1e.m3u8
 
 #EXTINF:0,-RELIGIOSOS-
 
-#EXTINF:-1 tvg-logo="https://iniciaradio.cl/wp-content/uploads/2020/09/logo-web-inicia-radio-blanco-FINAL.png" group-title=",INICIA RADIO
+#EXTINF:-1 tvg-logo="https://iniciaradio.cl/wp-content/uploads/2020/09/logo-web-inicia-radio-blanco-FINAL.png" group-title="RELIGIOSOS",INICIA RADIO
 https://hls-audio-cl-1-isp.dps.live/inicia/gotardis/audio/now/livestream1.m3u8
-#EXTINF:-1 tvg-logo="https://nctv.cl/wp-content/uploads/2021/03/logo-nctv-2021-baja.png" group-title="RADIO Y TV RELIGIOSAS",NUEVOS COMIENZOS TV
+#EXTINF:-1 tvg-logo="https://nctv.cl/wp-content/uploads/2021/03/logo-nctv-2021-baja.png" group-title="RELIGIOSOS",NUEVOS COMIENZOS TV
 https://pantera2-100gb-cl-movistar.dps.live/nctv/nctv.smil/nctv/livestream1/chunks.m3u8?nimblesessionid=18891000
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6cd375_2821dbcbb1364b02b081b67f01afe184~mv2.png/v1/fill/w_228,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6cd375_2821dbcbb1364b02b081b67f01afe184~mv2.png" group-title=",RADIO STELLA MARIS VALPO
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/6cd375_2821dbcbb1364b02b081b67f01afe184~mv2.png/v1/fill/w_228,h_195,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/6cd375_2821dbcbb1364b02b081b67f01afe184~mv2.png" group-title="RELIGIOSOS",RADIO STELLA MARIS VALPO
 https://audio4.tustreaming.cl/7170/stream
 #EXTINF:-1 tvg-id="170" tvg-name="Unidad Evangelica TV" tvg-logo="https://lh3.googleusercontent.com/-0tqSzwPEvSc/X7PH803XliI/AAAAAAAA7aQ/4JNA77aFp8gLDSf-RMXP1Ej7gSyKjrKrACK8BGAsYHg/s0/2020-11-17.png" group-title="RELIGIOSOS", Unidad Evangelica TV * | CL
 https://v2.tustreaming.cl/unidadevangelica/index.m3u8?PlaylistM3UCL

@@ -11,10 +11,6 @@ https://mediacpstreamchile.com:1936/huanhuatv/huanhuatv/playlist.m3u8?huanhuapla
 
 #EXTINF:1,-PREMIUM-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwetdeU.png" group-title="PREMIUM",•●★-- 📺 PREMIUM 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="PREMIUM",Cine TV: A&E (MOVIL)
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55838
 #EXTINF:-1 tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="PREMIUM",Cine TV: A&E Full HD (ARG)(Dual Audio)
@@ -707,11 +703,6 @@ http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57647
 
 #EXTINF:1,-DEPORTE LATINO-
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V0La21h.png" group-title="DEPORTE LATINO",•●★-- 📺 DEPORTE LATINO 📺 --★●•
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Liga_de_naciones.png" group-title="DEPORTE LATINO",PPV PORTUGAL VS REPUBLICA CHECA
-https://panel.streamingmedia.com.co:3104/live/nation.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS CHILE HD 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55658
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TTaCeXw.png" group-title="DEPORTE LATINO",TNT SPORTS CHILE HD 
@@ -1448,11 +1439,13 @@ http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/57490
 
 #EXTINF:1,-CANALES EXTRA-
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV DEPORTES (ENLACE EXTERNO)
+#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV DEPORTES 1 (ENLACE EXTERNO)
+https://panel.streamingmedia.com.co:3104/live/nation.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV DEPORTES 2 (ENLACE EXTERNO)
 https://panel.streamingmedia.com.co:3104/live/gdc.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV LIBERTADORES (ENLACE EXTERNO)
+#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV DEPORTES 3 (ENLACE EXTERNO)
 https://panel.streamingmedia.com.co:3104/live/libertadores.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV LA LIGA (ENLACE EXTERNO)
+#EXTINF:-1 tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="CANALES EXTRA",PPV DEPORTES 4 (ENLACE EXTERNO)
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="CANALES EXTRA",DirecTV Sports (ENLACE EXTERNO)

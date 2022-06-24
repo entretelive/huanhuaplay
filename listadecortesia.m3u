@@ -2,8 +2,6 @@
 
 #EXTINF:1,-HUANHUATV PPV-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CqcFyBGKiR1_g-TJedoHlz_plDkR_jKkbB69jLbLcKebhs6fuqYapNtHNlvf9mujElaELGmatk7VlsnZiJ23IMrtlTXHI0kk-y6ZzMI-bRbXkSc8-oocL2fSDk0pv5nC4xNaBIurMJ1ERZGBW4tCIKArZy0bBzcl4SfYHuzicQsabFEgIV9zCz4KDuC7XhOV56HfsnoDj4YGKldfOJ7KpRX_imVAbyNZhqs9QyKMUtkPENCb5jr9PZRAuQiYmnLzYNl7TFqWFCpfvXd2ouRyukxZUToLgcrLzLUt1tvn4GESPy7W3hg8tVwIxudmf_bX3xxaP83cP0sOAObO6v6g0NAt0bP0-lQsjnqYA1zyK3syl9N9Y-G8qxqFAgcI3RlcVrURS5eI6NqwDpvLLe1tmPllHSpsENego81G0c5kdoWL-Jz-DA0f9Gc-mYLf177Puff8p2MPpPVZI6_DpufgNc984I-PXODpnRvafNx8cw7mQSFtI-gyOy2voKEy_qc3me6UcQ7F9w-djMpxi2QNOnCDjrMrvXDwNVjD50bI95Mh4s3QIbF_vgh4YZW-TjdIGGrx1Bj-OknxJvjlO3nFehcGCPcd0cRkPrDDDaFMu6k1vqC2stIhBbj3vHlFoV-f-9PI4-4jdavySkcup9IJpPuAV8Xyfv34LiIMPC4I3NN4w5biAz6coX66REF-ezR0MQV5IsoBcXn53b9oTsE3Wr1EReeSXNESMfqhY08pG4eTThEUCrT_J8KvyNzSe14XnjhVyVq67N8fK7YMynwtCSH4EQWya3PZZrbafiQ9ofMNDr96IZMgEwy6l3zmQJLEHo3k7J8H5Upl2NL1DHaG8KeGfer8CZ8u0N5FqF8uyrvB6wR6Y50egOjtHYauCaRAoM748M1udCRLaRoM38OjQDkAGjEN9zWMIAEqCXVzLWVhc3QtMjCCBA.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV  
 https://mediacpstreamchile.com:1936/huanhuatv/huanhuatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
@@ -1475,69 +1473,69 @@ http://51.79.18.128:8081/24%7C7%7CLATINO%7CSIMPSONS/SIMPSONS/playlist.m3u8
 
 #EXTINF:1,-CANALES CHILENOS REFORZADOS-
 
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",13 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",C13 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55669
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",13 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",C13 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55670
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",13 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",C13 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55671
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",13 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",C13 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55672
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",13C 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",13C 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55674
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55678
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55679
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55680
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55681
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55682
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55683
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55684
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Chilevision 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55685
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",CNN 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",CNN 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55686
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",CNN Chile 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",CNN Chile 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55689
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",ETC 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",ETC 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55691
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",ETC 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",ETC 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55693
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",La Red TV 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",La Red TV 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55695
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",LA Red TV 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",LA Red TV 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55696
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",La Red 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",La Red 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55697
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",LA Red TV 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",LA Red TV 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55698
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55699
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55700
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55701
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",Mega 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55702
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TV+ 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TV+ 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55703
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TV+ 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TV+ 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55704
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TV+ 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TV+ 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55705
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55706
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55707
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55708
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
+#EXTINF:-1 tvg-id="405" tvg-logo="https://oneplay.net/wp-content/uploads/2020/10/logo_mobile_180.png" group-title="CANALES CHILENOS REFORZADOS",TVN 
 http://bestlive.pro:8080/bestlibepro/8KQ8gn5BcNAd/55709
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CANALES CHILENOS REFORZADOS",La Red

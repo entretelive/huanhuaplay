@@ -2198,8 +2198,8 @@ https://22823.live.streamtheworld.com/CONTINENTALAAC_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zdW6jjDrDq.jpg" group-title="RADIOS EXTRANJERAS",FM ROCK AND POP ARGENTINA
 https://26643.live.streamtheworld.com/ROCKANDPOPAAC_SC
 
-#EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
-
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kjbphgb9mypv.jpg" group-title="RADIOS EXTRANJERAS",CNN RADIO ARGENTINA
+http://3.16.79.190:8000/stream
 
 #EXTINF:-1 tvg-logo="" group-title="RADIOS EXTRANJERAS",
 

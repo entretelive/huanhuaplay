@@ -7,17 +7,6 @@ https://mediacpstreamchile.com:1936/huanhuatv/huanhuatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
 https://mediacpstreamchile.com:1936/huanhuatv/huanhuatv/playlist.m3u8?huanhuaplay.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATVFULL HD
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cq4FxG7ZzPtaW9LgYFCXAGNfLrlZuHkK-isc4RNqzpV4ZOpvWvuRVhLmLR3BulNZlfjgAfDO5eiXL2sAP1pJbNtX0JH9u2tbqHoH2I2Ae6U4VTE-hMVH82QBlOqntyu6GLj7zwiAU2wOZ8dy4XX8DMXfn8HCrZ_uRP-q5FSLa0Y3srQmUppGKsZy0ipRodESfylMQyjNRT4UCUblmHLMPuzeUmjwpOMQYszeeLT5D9vTCr6DibvPhInHan9Jbx0Nl8QKS8iz7UDEDlRx3rlYo-DDzIYfxnIN__7gJk0A7-7eO_zi_FURETVKzNEn6dw8IR_TcZyA-Ijd0A6lb7FjYPfCFHYnFhO-zl1J7jvPa_NfwFBcK83vhFF-UfS7GQXXrFIlGTPS-54ljfevF9DPNMU30XH3JI2JY_zqboBjFayvLpZQXLxqdfHQq0yoF1BYj4FS_6YuhlBg_SmAAX1eGqAbj3ANk6I0Q3BW2ia66Sk18QFOgREpi3nKRUHuFcOImggKXE12XXVdgwfBV4M87_KLSi2FA7Vr7-JxNBblKvdi0XgvDJePSEbnseubn7SfwahGLAOl83TgDuWdlWQxECdL5hRSmmmJQZ5NxPc_IqVpnh3PSeuUiCWbTmwn2ijYpyEXqRukGjV1NIGIdl7wTv8ekoURlui8FzEyA4K41iXBPhN0y4GU120xzaTfynNuTub_ZK4ZLP3e1Qg7d81zX2mZ2axIibRa2iCAfZ6WwDyNmJGtvK-CmRUvifdN8531cbmj3Z1ic-6c-lTljk9wIQMmHCHEVnX3cbxttC_vcgl8epsILlJcenSOhr1jaTPxaOhsGp9uLLRQ0eq-wSoml1KTMdadjCqNTpLo5FfTbXOjS_MO-10CUU6lrh3syr62Fz2nlOn7H31j4bE6YC84VKEaDIxakEHA-KMMoAnW_SABKgl1cy1lYXN0LTEwwAI.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/NlDE7c_4qdFEzgrqhsWyGEHkQmZJrsQig0dntbTfJ5O0F-IHCna2lHX74vnbV5uGIry7QwqW_N2hVYVcSW67TA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HQ
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/NlDE7c_4qdFEzgrqhsWyGEHkQmZJrsQig0dntbTfJ5O0F-IHCna2lHX74vnbV5uGIry7QwqW_N2hVYVcSW67TA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV SD
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/NlDE7c_4qdFEzgrqhsWyGEHkQmZJrsQig0dntbTfJ5O0F-IHCna2lHX74vnbV5uGIry7QwqW_N2hVYVcSW67TA/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live
-
 
 #EXTINF:1,-PREMIUM-
 

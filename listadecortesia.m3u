@@ -7,13 +7,6 @@
 https://unlimited2-cl-isp.dps.live/ll/playlist.m3u8?
 
 
-#EXTINF:1,-HUANHUATV PPV-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
-https://mediacpstreamchile.com:1936/huanhuatv-va/huanhuatv-va/playlist.m3u8?entretelive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
-https://mediacpstreamchile.com:1936/huanhuatv-va/huanhuatv-va/playlist.m3u8?huanhuaplay.m3u8
-
 #EXTINF:1,-CANALES CHILENOS REFORZADOS-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CANALES CHILENOS REFORZADOS",La Red

@@ -9,9 +9,16 @@ https://unlimited2-cl-isp.dps.live/ll/playlist.m3u8?
 #EXTINF:1,-HUANHUATV PPV-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
-https://mediacpstreamchile.com:1936/huanhuatv-va/huanhuatv-va/playlist.m3u8?entretelive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV 
-https://mediacpstreamchile.com:1936/huanhuatv-va/huanhuatv-va/playlist.m3u8?huanhuaplay.m3u8
+https://tv.streaming-chile.com:1936/leandronano/leandronano/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HD
+https://tv.streaming-chile.com:1936/leandronano/ngrp:leandronano_all/chunklist_w411671362_b1631072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV HQ
+https://tv.streaming-chile.com:1936/leandronano/ngrp:leandronano_all/chunklist_w411671362_b1131072.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV SD
+https://tv.streaming-chile.com:1936/leandronano/ngrp:leandronano_all/chunklist_w411671362_b1131072.m3u8
 
 
 #EXTINF:1,-CANALES CHILENOS REFORZADOS-

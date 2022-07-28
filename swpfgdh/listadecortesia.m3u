@@ -4,9 +4,9 @@
 #EXTINF:1,-HUANHUATV PPV-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV
-https://tv.streaming-chile.com:1936/leandronano/leandronano/playlist.m3u8
+https://tv.streaming-chile.com:1936/leandronano/leandronano/playlist.m3u8?entretelive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV
-https://mediacpstreamchile.com:1936/huanhuatv-va/huanhuatv-va/playlist.m3u8
+https://tv.streaming-chile.com:1936/leandronano/leandronano/playlist.m3u8?huanhuatv.m3u8
 
 
 

@@ -509,8 +509,10 @@ https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u
 https://sv.spliktv.xyz/live/caster/CL/TVN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" title="CANALES CHILENOS REFORZADOS",Tv Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="CANALES CHILENOS REFORZADOS",24 Horas
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" title="CANALES CHILENOS REFORZADOS",Canal 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" title="CANALES CHILENOS REFORZADOS",Canal 24 Horas EXTRA
+https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CANALES CHILENOS REFORZADOS",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png" group-title="CANALES CHILENOS REFORZADOS", Meganoticias
@@ -917,8 +919,7 @@ https://us-b5-pe-wo1-audio.cdn.mdstrm.com/live-audio/5c0efabde4c87f3f2d3e8036/5d
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/tf826bmbtrud.jpg" group-title="RADIOS ROCK Y POP",Rock&Pop Santiago
 https://20823.live.streamtheworld.com/ROCK_AND_POP_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SYuQF5eUPW.png" group-title="RADIOS ROCK Y POP",FM Tiempo Santiago
-https://unlimited2-cl-isp.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8
- 
+https://pantera1-100GB-cl-movistar.dps.live/fmtiempotv/fmtiempotv.smil/fmtiempotv/livestream1/chunks.m3u8
  
 #EXTINF:0,-RADIOS INFORMATIVAS-
  
@@ -973,7 +974,7 @@ https://audio4.tustreaming.cl/8130/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nwslgrnhc8pd.jpg" group-title="RADIOS INFORMATIVAS",Radio La Clave Santiago
 https://unlimited2-cl-isp.dps.live/laclavetv/laclavetv.smil/laclavetv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jxaFNhqWVg.png" group-title="RADIOS INFORMATIVAS",Radio Infinita Santiago
-https://unlimited2-cl-isp.dps.live/infinitatv/infinitatv.smil/playlist.m3u8
+https://pantera1-100GB-cl-movistar.dps.live/infinitatv/infinitatv.smil/infinitatv/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RCsaymrVvr.png" group-title="RADIOS INFORMATIVAS",Radio El Conquistador Santiago
 https://stream10.usastreams.com:10998/;
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/45e025a4deee9ffaeabe6af0b964a6c8.png" group-title="RADIOS INFORMATIVAS",T13 Radio
@@ -1002,7 +1003,7 @@ https://20823.live.streamtheworld.com/IMAGINA_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hNtDVvwQqV.jpg" group-title="RADIOS LATINAS",Pudahuel Santiago
 https://20283.live.streamtheworld.com/PUDAHUEL_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/ekzte2bcvnny.png" group-title="RADIOS LATINAS",Radio Santiago Romántica
-https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/playlist.m3u8
+https://pantera2-100GB-cl-movistar.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/cj23pmx2jzb9.png" group-title="RADIOS LATINAS",Radio Santiago Orquestada
 https://audio4.tustreaming.cl/7036/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hsNk3tD8hy.jpg" group-title="RADIOS LATINAS",Romantica Santiago
@@ -1041,7 +1042,7 @@ https://streaming.conectaapp.cl/canal95
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/emqfyafhqvpn.jpg" group-title="RADIOS JUVENILES",Los 40 Santiago
 https://20823.live.streamtheworld.com/LOS40_CHILE_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5b6kRBtq2s.jpg" group-title="RADIOS JUVENILES",Radio Carolina TV
-https://unlimited2-cl-isp.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream1/chunks.m3u8
+https://pantera1-100GB-cl-movistar.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://spectrumchannel.cl/wp-content/uploads/2021/05/cropped-LOGO-APP.png" group-title="RADIOS JUVENILES",SPECTRUM CHANNEL CHILE
 https://app.viloud.tv/hls/channel/f2eb3ddf5eb0bf6e040db535a7150e1e.m3u8
 

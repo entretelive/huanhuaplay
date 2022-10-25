@@ -1,15 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:1,-HUANHUATV PPV-
+#EXTINF:1,-HPLAY PPV-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HPLAY PPV", +PPV op1
 https://tv.streaming-chile.com:1936/8068/8068/playlist.m3u8?entretelive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HUANHUATV PPV", HUANHUATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tFcgHJ/poster2-16-143229.png" group-title="HPLAY PPV", +PPV op2
 https://tv.streaming-chile.com:1936/8068/8068/playlist.m3u8?huanhuatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jz57ZT7/LOGO-2.png" group-title="HUANHUATV PPV", HUANHUATV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jz57ZT7/LOGO-2.png" group-title="HPLAY PPV", +MIX op1
 https://tv.streaming-chile.com:1936/8070/8070/playlist.m3u8?entretelive2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jz57ZT7/LOGO-2.png" group-title="HUANHUATV PPV", HUANHUATV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jz57ZT7/LOGO-2.png" group-title="HPLAY PPV", +MIX op2
 https://tv.streaming-chile.com:1936/8070/8070/playlist.m3u8?huanhuatv2.m3u8
 
 

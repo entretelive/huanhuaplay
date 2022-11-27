@@ -3,7 +3,7 @@
 
 #EXTINF:1,-HPLAY PPV-
 
-#EXTINF:-1 tvg-logo="https://ibb.co/dcwmhKd" group-title="HPLAY PPV", +PPV op1
+#EXTINF:-1 tvg-logo="https://ibb.co/dcwmhKd" group-title="HPLAY PPV", +PPV
 https://tv.streaming-chile.com:1936/8068/8068/playlist.m3u8?entretelive.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX RETRO ROCK Y POP
 https://tv.streaming-chile.com:1936/8070/8070/playlist.m3u8?entretelive2.m3u8

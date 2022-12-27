@@ -4,11 +4,17 @@
 #EXTINF:1,-HPLAY PPV-
 
 #EXTINF:-1 tvg-logo="https://ibb.co/dcwmhKd" group-title="HPLAY PPV", +PPV
-https://tv.streaming-chile.com:1936/8068/8068/playlist.m3u8?entretelive.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX RETRO ROCK & POP
-https://tv.streaming-chile.com:1936/8070/8070/playlist.m3u8?entretelive2.m3u8
-#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX BAILABLE
+https://tv.streaming-chile.com:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX ROCK & POP
 https://tv.streaming-chile.com:1936/leandronano/leandronano/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX CLASICOS
+https://tv.streaming-chile.com:1936/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX BAILABLES
+https://tv.streaming-chile.com:1936/8046/8058/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX CHILE (PRONTO)
+https://tv.streaming-chile.com:1936/8046/8046/playlist.m3u8?huanhuatv2
+#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX URBANO (PRONTO)
+https://tv.streaming-chile.com:1936/8046/8046/playlist.m3u8?huanhuatv2
 
 #EXTINF:1,-PLUTO TV-
 

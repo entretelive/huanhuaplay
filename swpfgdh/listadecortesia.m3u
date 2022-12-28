@@ -3,9 +3,9 @@
 
 #EXTINF:1,-HPLAY PPV-
 
-#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX ROCK & POP
-https://tv.streaming-chile.com:1936/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX CLASICOS
+https://tv.streaming-chile.com:1936/8000/8000/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX ROCK & POP
 https://tv.streaming-chile.com:1936/8006/8006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ibb.co/x5MLgbT" group-title="HPLAY PPV", +MIX BAILABLES
 https://tv.streaming-chile.com:1936/8010/8010/playlist.m3u8

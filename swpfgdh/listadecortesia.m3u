@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF:1,-HPLAY PPV-
+#EXTINF:1,-CANALES DE HUANHUATV-
 
-#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="HPLAY PPV", +MIX CLASICOS
-https://tv.streaming-chile.com:1936/8000/8000/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="HPLAY PPV", +MIX ROCK & POP
-https://tv.streaming-chile.com:1936/8006/8006/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="HPLAY PPV", +MIX BAILABLES
-https://tv.streaming-chile.com:1936/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="HPLAY PPV", +MIX CHILE Y LATINO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CANALES DE HUANHUATV", HUANHUATV SPORTS
 https://tv.streaming-chile.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="HPLAY PPV", +MIX URBANO 
+#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX CLASICOS
+https://tv.streaming-chile.com:1936/8000/8000/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX ROCK & POP
+https://tv.streaming-chile.com:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX BAILABLES
+https://tv.streaming-chile.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvqueilenonline.live:2086/resize.php?max=42&url=https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX URBANO 
 https://tv.streaming-chile.com:1936/8016/8016/playlist.m3u8
 
 #EXTINF:1,-PLUTO TV-

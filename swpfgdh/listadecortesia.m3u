@@ -653,7 +653,7 @@ https://5eae379fb77bb.streamlock.net:443/8042/8042/playlist.m3u8
 #EXTINF:-1 tvg-id="1025" tvg-name="Telecanal Santa Cruz" tvg-logo="https://www.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png" group-title="CANALES REGIONALES" , Telecanal Santa Cruz | CL
 https://unlimited1-cl-isp.dps.live/tcsc/tcsc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="340" tvg-name="TVO San Vicente" tvg-logo="https://www.m3u.cl/logo/340_TVO_San_Vicente.jpg" group-title="CANALES REGIONALES" , TVO San Vicente | CL
-https://unlimited2-cl-isp.dps.live/tvo/tvo.smil/playlist.m3u8
+https://5e3483cba9114.streamlock.net:443/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="463" tvg-name="Ekiz TV" tvg-logo="https://www.m3u.cl/logo/463_Ekiz_TV.jpg" group-title="CANALES REGIONALES" , Ekiz televisión | CL
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="TVR Canal 11" tvg-logo="https://www.m3u.cl/logo/78_TVR_Canal_11.png" group-title="CANALES REGIONALES" , TVR Canal 11 | CL

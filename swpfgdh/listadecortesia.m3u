@@ -1137,21 +1137,9 @@ https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:0,-RADIOS EXTRANJERAS-
+#EXTINF:0,-LISTA M3U CL-
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia0I-7jl4rArifxkHAdr44D-XUFvJg44oBwRDgrsNL3txXm-zVOCUiawbR27LUvNhycOS_sY6-cJgrbXu8MMxJXwxPLfU6u73rlMChzBuu8QTGwnhUkaNH1lR3d0FypCk7wHgJ1uLX5YarobY8hl5eky8z1Z7qZfL6GF1nBi2f4V-st8fOGJv6az3uzw/s1933/DS%201031.png" group-title="RADIOS EXTRANJERAS",DIRECTV SPORTS RADIO ARGENTINA
-https://20823.live.streamtheworld.com/UNOAAC.aac?dist=onlineradiobox
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/Q8rkWrGME2.jpeg" group-title="RADIOS EXTRANJERAS",RADIO LA RED ARGENTINA
-https://26653.live.streamtheworld.com/LA_RED_AM910AAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EhtP8SZz3k.png" group-title="RADIOS EXTRANJERAS",RADIO CONTINENTAL ARGENTINA
-https://22823.live.streamtheworld.com/CONTINENTALAAC_SC
- 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zdW6jjDrDq.jpg" group-title="RADIOS EXTRANJERAS",FM ROCK AND POP ARGENTINA
-https://26643.live.streamtheworld.com/ROCKANDPOPAAC_SC
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/kjbphgb9mypv.jpg" group-title="RADIOS EXTRANJERAS",CNN RADIO ARGENTINA
-http://3.16.79.190:8000/stream
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png", Rewind Radio y TV * | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV * | CL

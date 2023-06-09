@@ -8,11 +8,10 @@
 https://stmv2.zcasthn.com.br/huanhuatv/huanhuatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CANALES DE HUANHUATV", HUANHUATV SPORTS
 https://stmv2.zcasthn.com.br/huanhuatvsports/huanhuatvsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX RETRO (PRONTO)
-https://tv.streaming-chile.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX FIESTA (PRONTO)
-https://tv.streaming-chile.com:1936/8006/8006/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX RETRO
+https://stmv2.zcasthn.com.br/mixretro/mixretro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX FIESTA
+https://stmv2.zcasthn.com.br/mixfiesta/mixfiesta/playlist.m3u8
 
 
 #EXTINF:1,-PLUTO TV-

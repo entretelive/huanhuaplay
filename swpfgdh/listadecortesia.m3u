@@ -8,20 +8,11 @@
 https://stmv2.zcasthn.com.br/huanhuatv/huanhuatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CANALES DE HUANHUATV", HUANHUATV SPORTS
 https://stmv2.zcasthn.com.br/huanhuatvsports/huanhuatvsports/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4pfzw2k/logo6-6-155738.png" group-title="CANALES DE HUANHUATV", HUANHUATV SEÑAL 3 SOLO EVENTOS
-https://tv.streaming-chile.com:1936/8120/8120/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX CLASICOS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX RETRO (PRONTO)
 https://tv.streaming-chile.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX ROCK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX FIESTA (PRONTO)
 https://tv.streaming-chile.com:1936/8006/8006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX ROCK LATINO
-https://tv.streaming-chile.com:1936/8124/8124/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX LATINO
-https://tv.streaming-chile.com:1936/8126/8126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX BAILABLES
-https://tv.streaming-chile.com:1936/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX POP DANCE
-https://tv.streaming-chile.com:1936/8016/8016/playlist.m3u8
+
 
 
 #EXTINF:1,-PLUTO TV-

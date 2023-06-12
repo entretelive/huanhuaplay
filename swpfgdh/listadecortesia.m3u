@@ -770,8 +770,6 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/26hfjjqc2ulp.png" group-title="RADIOS TROPICALES",Radio Carnaval Antofagasta
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
-#EXTINF:-1 tvg-logo="https://www.guiapenquista.cl/imagenes/radios/iv-region/la-serena/radio-carnaval.jpg" group-title="RADIOS TROPICALES",Radio Carnaval La Serena
-http://stream5.eltelon.com:8000/carnaval.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/9b5b2ffbxu4m.png" group-title="RADIOS TROPICALES",Radio Carnaval Ovalle
 http://sonando.us.digitalproserver.com/carnaval_ovalle.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/zwawwhn3jeek.png" group-title="RADIOS TROPICALES",Radio Carnaval La Calera
@@ -782,8 +780,6 @@ http://sonando.us.digitalproserver.com/carnaval_aconcagua.aac
 http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/vb4gswqlws28.png" group-title="RADIOS TROPICALES",Radio Carnaval San Antonio
 http://sonando.us.digitalproserver.com/carnaval_sanantonio.aac
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/zztytsbjncr4.png" group-title="RADIOS TROPICALES",Radio Carnaval Curicó
-http://sonando.us.digitalproserver.com/carnaval_curico.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dm77mzvl8ehk.png" group-title="RADIOS TROPICALES",Radio Carnaval Punta Arenas
 http://sonando.us.digitalproserver.com/carnaval_puntaarenas.aac
 #EXTINF:-1 tvg-logo="https://radiofestival.b-cdn.net/wp-content/uploads/2018/06/favicon.png" group-title="RADIOS TROPICALES",Radio Festival de Viña del mar
@@ -905,7 +901,7 @@ http://pantera1-100gb-cl-movistar.dps.live/coopetv/coopetv.smil/coopetv/livestre
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dZrufzms4G.jpg" group-title="RADIOS INFORMATIVAS",Cooperativa Señal 2 (Solo Eventos) Online
 http://unlimited3-cl.dps.live/cooperativa2/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/LPbE98zKga.png" group-title="RADIOS INFORMATIVAS",ADN RADIO TV
-https://unlimited1-cl-isp.dps.live/adntv/adntv.smil/adntv/livestream0/chunks.m3u8
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/adntv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bio_Bio_TV.jpg" group-title="RADIOS INFORMATIVAS",BIOBIO TV
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/kqBTQvKx37.png" group-title="RADIOS INFORMATIVAS",BIO BIO Santiago

@@ -3,17 +3,12 @@
 
 #EXTINF:1,-CANALES DE HUANHUATV-
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CANALES DE HUANHUATV", HUANHUATV SPORTS
-https://stmv2.zcasthn.com.br/huanhuatvsports/huanhuatvsports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CANALES DE HUANHUATV", HUANHUATV
-https://stmv2.zcasthn.com.br/huanhuatv/huanhuatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4pfzw2k/logo6-6-155738.png" group-title="CANALES DE HUANHUATV", HUANHUATV EXTRA
-https://stmv2.zcasthn.com.br/huanhuatv3/huanhuatv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX RETRO
-https://stmv2.zcasthn.com.br/mixretro/mixretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HPksG2v/logo10-25-13155-1.png" group-title="CANALES DE HUANHUATV", +MIX FIESTA
-https://stmv2.zcasthn.com.br/mixfiesta/mixfiesta/playlist.m3u8
+https://5eaccbab48461.streamlock.net:1936/8254/8254/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CANALES DE HUANHUATV", HUANHUATV SPORTS
+https://video-weaver.scl01.hls.live-video.net/v1/playlist/CtMFDo3Pbbwx2h5uAI_yZ10waiwpVYBBmzS2BidiqqMwCyhLO2PXP_oT0_GMpS956y3803KhxAbh_RePMiei7RhK9R6PDOFfBqEnrrOfOgLghyzTbXX6uCioxrYRyfbW-X6qsxvEVTe-RjqdT6oBxwgV_FvGkJ-a08iZJj14wdDFr07D4WSWIrOdjjXPcS8-vr34sP4A0JfoeP2UrkuY66Pq9cbGvIpWnIW7sif-YUTkadidv-zewL7IY6erUFP2OGn09O_Ye0jB3sppcthFKRiw-UiBj7eq8o3UCNfm5MvnIzTBQmtitif9hKCtjDeOCKaYdxO8tZCxo_c63EDWnPGUwMyWojQLNa3ro1LH-6GFgpl2kxpCvi_JFpD-3eBYoKRrvYw2VdzJiQNf1q56sWtcUZDPL4kqkEZ_CTc04aJNPWZSxIZrECVpe3UaSX6dYIfWRoDbXFoGakz8gzbEVCk_xc6T-Bqvkz2oUUuY-SQQzG5HVp7d8WdwBSgURfdp6z5fr_CtIa9jkIshSXEQDesZ9cMG9nWEDZOmwHBmpLH7UpbySnTtEeOIaA-f2XuHgXpQV-UzunzlsUTf1n_9ej7vUwuPthsjndmmryLB6tGZOcoF4LEvxtDY2rd27nuDV33_WXZylIVtRpaYLbCWAq7iGZxKtkgUEo3HdesVH6UqfxcL6EpU9yXxW4N-7M2FZx-gSdfJOhxP8xno30p_ImAPMCP-cPX-5ejBUqVJ2ilNZ2SGA5YngFT3C8LSHCB-qo29aChD50N-FIzq-8eUbEGdfXk0d53VtlipjBUegCd27ibX2LNK9-U32DSYT_pz1Hp5ZwPQW1DfVBVA8FfpuFKjuLJCpQ2XGOujZtCmzAwln03MFD8cySEjFg2K0AP_JevHCgRuOPlbwOxNYVWEZ0c5qG0gCXm7LDhDZ9qSt8mCp2RpqxaYgQrWpOAlyi7MU7
+
+
 
 
 #EXTINF:1,-CANALES CHILENOS REFORZADOS-

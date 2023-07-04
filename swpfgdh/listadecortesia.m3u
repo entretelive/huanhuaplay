@@ -1,11 +1,11 @@
 #EXTM3U
 
 
-#EXTINF:1,-CANALES DE HUANHUATV-
+#EXTINF:1,-CANALES DE HUANHUATV PRODUCCIONES-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CANALES DE HUANHUATV", HUANHUATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CANALES DE HUANHUATV PRODUCCIONES", HUANHUATV
 https://5eaccbab48461.streamlock.net:1936/8254/8254/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CANALES DE HUANHUATV", HUANHUATV SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CANALES DE HUANHUATV PRODUCCIONES", HUANHUATV SPORTS
 https://5eaccbab48461.streamlock.net:1936/8140/8140/playlist.m3u8
 
 

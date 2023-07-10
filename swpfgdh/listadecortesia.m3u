@@ -38,7 +38,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?Play
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CANALES CHILENOS REFORZADOS", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CANALES CHILENOS REFORZADOS",Canal 13
-http://canal13-m3u.chorroaeboy.repl.co
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/b57d14e3-30f4-46b8-86f4-dca529664597:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CANALES CHILENOS REFORZADOS",Deportes 13
 https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="CANALES CHILENOS REFORZADOS", 13 Cultura

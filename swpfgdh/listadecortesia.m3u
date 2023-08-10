@@ -81,6 +81,8 @@ https://593b04c4c5670.streamlock.net:443/8012/8012/playlist.m3u8
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="Antofagasta TV" tvg-logo="https://www.m3u.cl/logo/71_Antofagasta_TV.png" group-title="CANALES REGIONALES" , Antofagasta televisión | CL
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="Antofagasta TV" tvg-logo="https://i2.paste.pics/18b445e2ec674ae21c12e73f6714501d.png" group-title="CANALES REGIONALES" , TalTal TV | CL
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316" tvg-name="LRP Televisión" tvg-logo="https://www.m3u.cl/logo/316_LRP_Television.png" group-title="CANALES REGIONALES" , LRP Televisión | CL
 https://v2.tustreaming.cl/lrp/index.m3u8
 #EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://www.m3u.cl/logo/319_Atacama_Noticias_TV.png" group-title="CANALES REGIONALES" , Atacama Noticias TV | CL
@@ -113,6 +115,10 @@ https://Stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://www.m3u.cl/logo/854_TV_Quinta_Region.png" group-title="CANALES REGIONALES" , TV Quinta Región | CL
 https://stmv2.zcasthn.com.br/tvquintaregion/tvquintaregion/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://i2.paste.pics/ac3ec8e1657f335cc9a19e8c716f7d42.png" group-title="CANALES REGIONALES" , Marga Marga TV | CL
+https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="854" tvg-name="TV Quinta Region" tvg-logo="https://i2.paste.pics/5cecdf64d483c73f344a8b6c4f21b099.png" group-title="CANALES REGIONALES" , Limache Movil | CL
+https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="74" tvg-name="Girovisual TV" tvg-logo="https://www.m3u.cl/logo/74_Girovisual_TV.png" group-title="CANALES REGIONALES" , Girovisual televisión | CL
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://www.m3u.cl/logo/76_Canal_2_de_San_Antonio.png" group-title="CANALES REGIONALES " , Canal 2 de San Antonio | CL
@@ -139,6 +145,8 @@ https://bst.buin.cl/0.m3u8
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="341" tvg-name="Sextavision" tvg-logo="https://www.m3u.cl/logo/341_Sextavision.png" group-title="CANALES REGIONALES" , Sextavision | CL
 https://5ff3d9babae13.streamlock.net:443/8020/8020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1404" tvg-name="Canal Noticias Colchagua" tvg-logo="https://i2.paste.pics/e2bc4cbe5aab410fe3b44148f01c5877.png" group-title="CANALES REGIONALES", Canal Noticias Colchagua * | CL
+https://oracle.streaminghd.cl:443/cncmedia/cncmedia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1025" tvg-name="Telecanal Santa Cruz" tvg-logo="https://www.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png" group-title="CANALES REGIONALES" , Telecanal Santa Cruz | CL
 https://unlimited1-cl-isp.dps.live/tcsc/tcsc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="340" tvg-name="TVO San Vicente" tvg-logo="https://www.m3u.cl/logo/340_TVO_San_Vicente.jpg" group-title="CANALES REGIONALES" , TVO San Vicente | CL
@@ -151,6 +159,10 @@ https://unlimited1-cl-isp.dps.live/tvrcurico/tvrcurico.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/vivotv/vivotv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="Telecanal Talca" tvg-logo="https://www.m3u.cl/logo/79_Telecanal_Talca.png" group-title="CANALES REGIONALES" , Telecanal Talca | CL
 https://unlimited1-cl-isp.dps.live/tctc/tctc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="Telecanal Talca" tvg-logo="https://i2.paste.pics/c7efa75621818f201a2d01c7eb17cf6c.png" group-title="CANALES REGIONALES" , El Centro TV | CL
+https://v1.tustreaming.cl/diarioelcentrotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-name="Canal 30 Loncomilla" tvg-logo="https://i2.paste.pics/4002196065803939c387bb88ae54b8be.png" group-title="CANALES REGIONALES", Canal 30 Loncomilla | CL
+https://v1.tustreaming.cl:19360/canal30loncomilla/canal30loncomilla.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="55" tvg-name="Campus TV" tvg-logo="https://www.m3u.cl/logo/55_Campus_TV.png" group-title="CANALES REGIONALES" , Campus televisión | CL
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="TV 5 Linares" tvg-logo="https://www.m3u.cl/logo/80_TV_5_Linares.jpg" group-title="CANALES REGIONALES" , TV 5 Linares | CL
@@ -189,8 +201,12 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 https://mediacpstreamchile.com:1936/ltvcanal/ltvcanal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="83" tvg-name="Pucon TV" tvg-logo="https://www.m3u.cl/logo/83_Pucon_TV.png" group-title="CANALES REGIONALES" , Pucon televisión | CL
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1385" tvg-name="Veo TV" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png" group-title="CANALES REGIONALES", Veo TV * | CL
+https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="357" tvg-name="Temuco TV" tvg-logo="https://www.m3u.cl/logo/357_Temuco_TV.jpg" group-title="CANALES REGIONALES" , Temuco televisión | CL
 https://tv.streaming-chile.com:1936/temucotelevision/temucotelevision/chunklist_w1966402795.m3u8
+#EXTINF:-1 tvg-id="1330" tvg-name="Sureña TV" tvg-logo="https://i.paste.pics/61bca781a30ae3b52da01e9d47706654.png" group-title="CANALES REGIONALES", Sureña TV | CL
+http://170.247.204.26:8081/wircom/surena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="802" tvg-name="TV UCT" tvg-logo="https://www.m3u.cl/logo/802_TV_UCT.png" group-title="CANALES REGIONALES" , TV UCT | CL
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="Ufrovision" tvg-logo="https://www.m3u.cl/logo/57_Ufrovision.png" group-title="CANALES REGIONALES" , Ufrovision | CL
@@ -219,6 +235,8 @@ https://oracle.streaminghd.cl/8030/8030/playlist.m3u8?PlaylistM3UCL
 https://5ff3d9babae13.streamlock.net:443/8018/8018/playlist.m3u8
 #EXTINF:-1 tvg-id="368" tvg-name="Santa Maria TV" tvg-logo="https://www.m3u.cl/logo/368_Santa_Maria_TV.png" group-title="CANALES REGIONALES" , Santa María TV | CL
 https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1393" tvg-name="La Melinkana TV" tvg-logo="https://i.paste.pics/d97e9b3a023839600a489348ed5f62df.png" group-title="CANALES REGIONALES", La Melinkana TV * | CL
+https://v1.tustreaming.cl/melinkana/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="369" tvg-name="Canal 11 TV Aysen" tvg-logo="https://www.m3u.cl/logo/369_Canal_11_TV_Aysen.png" group-title="CANALES REGIONALES" , Canal 11 TV Aysén | CL
 https://v1.tustreaming.cl:19360/canal11aysen/canal11aysen.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1012" tvg-name="Aysén TV" tvg-logo="https://www.m3u.cl/logo/1012_Aysen_TV.png" group-title="CANALES REGIONALES" , Aysén televisión

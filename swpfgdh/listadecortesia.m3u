@@ -1,79 +1,62 @@
 #EXTM3U
 
 
-#EXTINF:1,-CANALES DE HUANHUATV PRODUCCIONES-
+#EXTINF:1,-HUANHUATV PRODUCCIONES-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CANALES DE HUANHUATV PRODUCCIONES", HUANHUATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="HUANHUATV PRODUCCIONES", HUANHUATV
 https://5eaccbab48461.streamlock.net:1936/8254/8254/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CANALES DE HUANHUATV PRODUCCIONES", HUANHUATV SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="HUANHUATV PRODUCCIONES", HUANHUATV SPORTS
 https://5eaccbab48461.streamlock.net:1936/8140/8140/playlist.m3u8
 
 
-#EXTINF:1,-CANALES CHILENOS REFORZADOS-
+#EXTINF:1,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CANALES CHILENOS REFORZADOS",La Red
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CANALES CHILENOS REFORZADOS",TV+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CANALES CHILENOS REFORZADOS",UCV TV
-https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg/1200px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg.png" group-title="CANALES CHILENOS REFORZADOS",TVN
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=c6LIJlHyOUraeEqdenkprjZ7tv66yVKh&sid=VUxmlbXqda5JY6jrubcvIBwjtqH6e8yt&pid=yPiqfNSZLKz3s4q6JSgyoIsbi3UsxMaH&an=screen&at=web-app&av=v5.2.349&ref=https%3A%2F%2Flive.tvn.cl%2F&res=373x235&without_cookies=false&listenerid=&dnt=true&access_token=we0cTKNm9Km4NCrHUDdJRKqQ1f5Jlcmbj6ycBucNWb9VY0K9QrUR8RVtqnHqsd0izgUSMaVMl8I&adInsertionSessionId=e75a17de-6891-4122-a51b-a929933e32e8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" title="CANALES CHILENOS REFORZADOS",Tv Chile
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logotipo_de_TV_Chile_%282016-2020%29.png" title="CHILE",Tv Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.ics/2ba64b67051e159ff48060da1a687fd0.png",group-title="CANALES CHILENOS REFORZADOS",TVN 3
+#EXTINF:-1 tvg-logo="https://i2.paste.ics/2ba64b67051e159ff48060da1a687fd0.png",group-title="CHILE",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png",group-title="CANALES CHILENOS REFORZADOS",NTV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png",group-title="CHILE",NTV
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" title="CANALES CHILENOS REFORZADOS",Canal 24 Horas
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" title="CHILE",Canal 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CANALES CHILENOS REFORZADOS",Mega
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logomega2020.svg/1200px-Logomega2020.svg.png" group-title="CHILE",Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png" group-title="CANALES CHILENOS REFORZADOS", Meganoticias
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Meganoticias-en-vivo-Online.png" group-title="CHILE", Meganoticias
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CANALES CHILENOS REFORZADOS",Chilevisión
-https://marine2.miplay.cl/chilevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvdaldia.cl/wp-content/uploads/2022/07/chv-contigo.jpg" group-title="CANALES CHILENOS REFORZADOS",Chilevision Contigo (Via Pluto tv)
-https://siloh-latam-aka.plutotv.net/lilo/production/ChileVisionContigo/VE/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo_CHV_NOTICIAS.svg/1200px-Logo_CHV_NOTICIAS.svg.png" group-title="CANALES CHILENOS REFORZADOS",Chilevisión Noticias (Via Pluto tv)
-https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CANALES CHILENOS REFORZADOS", U Chile TV
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Canal-13-Logo.png" group-title="CANALES CHILENOS REFORZADOS",Canal 13
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/b57d14e3-30f4-46b8-86f4-dca529664597:SCL/variant/6111ad30657a583ad044dfe707c7e95d/bandwidth/2305600.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CANALES CHILENOS REFORZADOS", T13
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CANALES CHILENOS REFORZADOS",Deportes 13
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CHILE",Deportes 13
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CANALES CHILENOS REFORZADOS", 13 Festival
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CHILE", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/07b96c9485f731aafdc798a406320c94.png" group-title="CANALES CHILENOS REFORZADOS", 13 Humor
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/07b96c9485f731aafdc798a406320c94.png" group-title="CHILE", 13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/22b32c8870b49a5fad925b53b7485aa5.png" group-title="CANALES CHILENOS REFORZADOS", 13 Realities
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/22b32c8870b49a5fad925b53b7485aa5.png" group-title="CHILE", 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="CANALES CHILENOS REFORZADOS", 13 Cultura
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="CHILE", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png" group-title="CANALES CHILENOS REFORZADOS", 13 Entretencion
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/979_13_Entretencion.png" group-title="CHILE", 13 Entretencion
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png" group-title="CANALES CHILENOS REFORZADOS", 13 Prime
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1033_13_Prime.png" group-title="CHILE", 13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png" group-title="CANALES CHILENOS REFORZADOS", 13 Teleseries
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title="CANALES CHILENOS REFORZADOS",Rec Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title=CHILE",Rec Tv
 https://marine2.miplay.cl/rec/mono.m3u8
 
-#EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="CANALES CHILENOS REFORZADOS", Wapp Tv
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zona_Latina_2005.png/revision/latest/scale-to-width-down/350?cb= 20190808202235&path-prefix=es" group-title="CANALES CHILENOS REFORZADOS",Zona Latina
-http://181.78.22.214:8000/play/a01x
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/908_Convencion_Constitucional.png" group-title="CANALES CHILENOS REFORZADOS", Convencion Constitucional
-https://mdstrm.com/live-stream-playlist/60d1f10fdacfa008348d71d2.m3u8?PlaylistM3UC
-
-#EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="CANALES CHILENOS REFORZADOS",Teletrak TV
+#EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="CHILE", Wapp Tv
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="CHILE",Teletrak TV
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://selloderaza.cl/wp-content/uploads/2021/01/logo-sello-white.png" group-title="CANALES CHILENOS REFORZADOS", Sello de Raza TV
-https://v2.tustreaming.cl/mastermedia/index.m3u8
-#EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="CANALES CHILENOS REFORZADOS", Teletón TV
+#EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="CHILE", Teletón TV
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
 
 

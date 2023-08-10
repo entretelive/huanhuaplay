@@ -36,8 +36,6 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="CHILE",Deportes 13
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CHILE", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/07b96c9485f731aafdc798a406320c94.png" group-title="CHILE", 13 Humor
@@ -57,10 +55,17 @@ https://marine2.miplay.cl/rec/mono.m3u8
 
 #EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg"  group-title="CHILE", Wapp Tv
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="CHILE",Teletrak TV
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png"  group-title="CHILE", Teletón TV
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8
+
+#EXTINF:1,-DEPORTES-
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="DEPORTES", HUANHUATV SPORTS
+https://5eaccbab48461.streamlock.net:1936/8140/8140/chunklist_w856742597.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",Teletrak TV
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 
 
 #EXTINF:0,-CANALES REGIONALES-

@@ -310,8 +310,9 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
  
  
 #EXTINF:0,-RADIOS ROCK Y POP-
- 
- 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugXVC1NEUKDU9LXNyYUaT9EJgB46S6EFh5Gg6Envf2Aw6wNfL0LkV_7opvLqXDcFixPE&usqp=CAU" group-title="RADIOS ROCK Y POP",TH MUSIC
+https://panel.miplay.cl:8081/mix247tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dkjwzjhmsjy6.jpg" group-title="RADIOS ROCK Y POP",La Retro by Chico Perez Online
 https://s2.radio.co/s9ecef4f68/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/rg4rbgq2qdh6.png" group-title="RADIOS ROCK Y POP",Radio Contemporanea Aconcagua

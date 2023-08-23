@@ -281,6 +281,8 @@ https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="359" tvg-name="Canal Latino 54" tvg-logo="https://www.m3u.cl/logo/359_Canal_Latino_54.png" group-title="CANALES REGIONALES" , Canal Latino 54 | CL
 https://live.chileservidores.com:8081/latina/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1461" tvg-name="Los Rios Al Dia" tvg-logo="https://i2.paste.pics/654339e3e8e4096492037cfbca2ec3e2.png" group-title="CANALES REGIONALES", Los Rios Al Dia * | CL
+https://losriosaldia.ngrok.app/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="360" tvg-name="Osorno TV+" tvg-logo="https://www.m3u.cl/logo/360_Osorno_TV_.png" group-title="CANALES REGIONALES" , Osorno TV+ | CL
 https://panel.tvstream.cl:1936/8036/8036/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="59" tvg-name="U Los Lagos" tvg-logo="https://www.m3u.cl/logo/59_U_Los_Lagos.png" group-title="CANALES REGIONALES" ,U Los Lagos | CL
@@ -381,11 +383,10 @@ https://audio1.tustreaming.cl:10953/azucarsantiago
 http://radio.positivafm.cl:8000/positivafm
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zb5yr2zbpnbk.png" group-title="RADIOS TROPICALES",Caramelo San Vicente
 http://cast.radioservicios.cl:8316/sanvicente
-#EXTINF:-1 tvg-logo="https://www.radioenergia.cl/new/wp-content/uploads/2020/10/GIF-FINAL.gif" group-title="RADIOS TROPICALES",Enerfia FM Chiguayante
+#EXTINF:-1 tvg-logo="https://www.radioenergia.cl/new/wp-content/uploads/2020/10/GIF-FINAL.gif" group-title="RADIOS TROPICALES",Energia FM Chiguayante
 https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8
 #EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://www.m3u.cl/logo/1005_Onda_Radio_TV.png"  group-title="RADIOS TROPICALES", Onda Radio 
-https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
- 
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8 
  
 #EXTINF:0,-RADIOS ROCK Y POP-
 
@@ -401,36 +402,14 @@ https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?Playlist
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2021/02/cropped-ICON-33.png" group-title="RADIOS ROCK Y POP",REWIND CHILE
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Digital FM Nacional
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Digital FM
 https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Arica
-http://radio.digitalfm.cl:8000/arica
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Iquique
-http://radio.digitalfm.cl:8000/iquique1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Digital FM Calama
-http://radio.digitalfm.cl:8000/calama1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Antofa
-http://radio.digitalfm.cl:8000/antofagasta1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM La Serena
-http://radio.digitalfm.cl:8000/laserena1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Digital FM Valpo
-http://radio.digitalfm.cl:8000/valparaiso1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Talca
-http://radio.digitalfm.cl:8000/talca
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Conexión Digital FM
-http://radio.digitalfm.cl:8000/concepcion1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Osorno
-http://radio.digitalfm.cl:8000/osorno1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Puerto Montt
-http://radio.digitalfm.cl:8000/puertomontt1
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP", Digital FM Punta Arenas
-http://radio.digitalfm.cl:8000/ptaarenas
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dhdwjn3lyjtg.jpg" group-title="RADIOS ROCK Y POP",Radio Rock Chileno Online
 http://cp2.shoutcheap.com:8300/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s84637/images/logog.jpg?t=152458" group-title="RADIOS ROCK Y POP",Radio Ritoque Valparaiso
 http://sonando.us.digitalproserver.com/ritoquefm_aac
 #EXTINF:-1 tvg-logo="https://www.vinafm.cl/vinafm/site/artic/20181205/imag/foto_0000000320181205132824/LOGO_VInAFM_OSCURO_CON_DIAL.png" group-title="RADIOS ROCK Y POP",Viña FM
-https://janus.vinafm.cl/playlist/stream.m3u8
+https://vinafm2.janus.cl/playlist/stream.m3u8?s=hd&t=&id=llo63vpv&q=&d=w
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/wGqaMFYxRP.jpg" group-title="RADIOS ROCK Y POP",Concierto Santiago
 https://24383.live.streamtheworld.com/CONCIERTOAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rWue2rVhYk.jpg" group-title="RADIOS ROCK Y POP",Universo Santiago
@@ -453,7 +432,7 @@ http://sscl.denialstream.com:8830/;stream/1.mp3
 https://streaming.conectaapp.cl/fmplus
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/63092.v8.png" group-title="RADIOS ROCK Y POP",Radio 80s Online
 http://188.40.135.197:8462/;
-#EXTINF:-1 tvg-logo="http://powerplaydiscotheque.com/sitio/wp-content/uploads/2019/03/cropped-logo-1.png" group-title="RADIOS ROCK Y POP",Power Jugar en linea
+#EXTINF:-1 tvg-logo="http://powerplaydiscotheque.com/sitio/wp-content/uploads/2019/03/cropped-logo-1.png" group-title="RADIOS ROCK Y POP",Powerplay
 http://cast.miradio.in:8030/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xq5mhgagnxkx.jpg" group-title="RADIOS ROCK Y POP",Radio Azul Los Andes
 http://streaming.fmokey.cl:8000/razul.mp3
@@ -473,7 +452,7 @@ http://unlimited3-cl.dps.live/cooperativa2/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/LPbE98zKga.png" group-title="RADIOS INFORMATIVAS",ADN RADIO TV
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/adntv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bio_Bio_TV.jpg" group-title="RADIOS INFORMATIVAS",BIOBIO TV
-https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/kqBTQvKx37.png" group-title="RADIOS INFORMATIVAS",BIO BIO Santiago
 https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/kqBTQvKx37.png" group-title="RADIOS INFORMATIVAS",BIO BIO Valparaiso
@@ -505,7 +484,7 @@ http://audio1.tustreaming.cl:8060/stream
 #EXTINF:-1 tvg-logo="https://www.portalesfm.cl/img/logo2.png" group-title="RADIOS INFORMATIVAS",Portales Valparaiso
 http://archi-us.digitalproserver.com/portales-fm-valparaiso-vina-del-mar.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s118528/images/logoq.jpg?t=159595" group-title="RADIOS INFORMATIVAS",Portales Señal Digital
-https://stream3.polarhost.cl/portales2
+https://cdn.oneplaychile.cl:1936/radios/radioportales/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/MawJ8VKZpU.jpeg" group-title="RADIOS INFORMATIVAS",Radio Placeres Valparaiso
 http://192.99.18.164:9856/;
 #EXTINF:-1 tvg-logo="https://www.guiapenquista.cl/imagenes/radios/iv-region/la-serena/radio-montecarlo.jpg" group-title="RADIOS INFORMATIVAS",Montecarlo La Serena
@@ -517,9 +496,9 @@ https://audio4.tustreaming.cl/8130/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nwslgrnhc8pd.jpg" group-title="RADIOS INFORMATIVAS",Radio La Clave Santiago
 https://unlimited2-cl-isp.dps.live/laclavetv/laclavetv.smil/laclavetv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jxaFNhqWVg.png" group-title="RADIOS INFORMATIVAS",Radio Infinita Santiago
-https://pantera1-100GB-cl-movistar.dps.live/infinitatv/infinitatv.smil/infinitatv/livestream0/chunks.m3u8
+https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RCsaymrVvr.png" group-title="RADIOS INFORMATIVAS",Radio El Conquistador Santiago
-https://stream10.usastreams.com:10998/;
+https://v1.tustreaming.cl:19360/conquistadorconcepcion/conquistadorconcepcion.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/45e025a4deee9ffaeabe6af0b964a6c8.png" group-title="RADIOS INFORMATIVAS",T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wdtpfwKRzD.jpg" group-title="RADIOS INFORMATIVAS",Radio Duna Santiago
@@ -528,6 +507,8 @@ https://unlimited1-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8
 http://5.9.65.6:9978/;
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fm2ystdvkbmt.jpg" group-title="RADIOS INFORMATIVAS",Radio Bomberos de Chile
 http://190.3.169.87:9938/;stream.mp3
+#EXTINF:-1 tvg-logo="https://lavozdelosquesobran.cl/wp-content/uploads/2022/01/LOGO-WEB-FINAL.png" group-title="RADIOS INFORMATIVAS",LVQS TV
+https://unlimited1-cl-isp.dps.live/lvdlqs/lvdlqs.smil/playlist.m3u8?PlaylistM3UCL
  
  
 #EXTINF:0,-RADIOS LATINAS-
@@ -544,13 +525,13 @@ http://archi-us.digitalproserver.com/nexo.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/yQWd3pdnYE.jpg" group-title="RADIOS LATINAS",Imagina Santiago
 https://20823.live.streamtheworld.com/IMAGINA_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hNtDVvwQqV.jpg" group-title="RADIOS LATINAS",Pudahuel Santiago
-https://20283.live.streamtheworld.com/PUDAHUEL_SC
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/ekzte2bcvnny.png" group-title="RADIOS LATINAS",Radio Santiago Romántica
 https://pantera2-100GB-cl-movistar.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream0/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/cj23pmx2jzb9.png" group-title="RADIOS LATINAS",Radio Santiago Orquestada
 https://audio4.tustreaming.cl/7036/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hsNk3tD8hy.jpg" group-title="RADIOS LATINAS",Romantica Santiago
-https://unlimited3-cl.dps.live/romantica/mp3/icecast.audio
+https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/4ucHCg8xnR.jpeg" group-title="RADIOS LATINAS",FM DOS
 https://20833.live.streamtheworld.com/FMDOSAAC_SC
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/507f7e14c90088cdceda8b2aeaefb887.jpg" group-title="RADIOS LATINAS",Radio Colo-Colo Santiago
@@ -564,30 +545,23 @@ http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
 #EXTINF:0,-RADIOS JUVENILES-
 
  
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK Nacional
-http://streaming.fmokey.cl/moviles.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK Antofagasta
-http://streaming.fmokey.cl:8000/FmOkAT.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK Copiapo
-http://streaming.fmokey.cl:8000/FmOkCP.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK La Serena
-http://streaming.fmokey.cl/FmOkLS.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK Valparaiso
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK
 http://streaming.fmokey.cl/FmOkValpo.mp3
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK Quillota
-http://streaming.fmokey.cl/FmOkQ.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/a6eyesg65lgh.jpg" group-title="RADIOS JUVENILES",Radio Disney Santiago
 https://unlimited11-cl.dps.live/disney/mp364k/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/WPFsYaygAP.jpg" group-title="RADIOS JUVENILES",Radio Activa Santiago
-https://24483.live.streamtheworld.com/ACTIVA_SC
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://api-ws-multisite.arcatelmultisite.cl/api/file/download?privateUrl=tenant/5f3c3321cd4c9606e3df2963/settings/logos/2e567b7c-8b71-4c64-bedf-6b91cd020c76. png" group-title="RADIOS JUVENILES",Radio Canal 95 Antofagasta
 https://streaming.conectaapp.cl/canal95
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/emqfyafhqvpn.jpg" group-title="RADIOS JUVENILES",Los 40 Santiago
 https://20823.live.streamtheworld.com/LOS40_CHILE_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5b6kRBtq2s.jpg" group-title="RADIOS JUVENILES",Radio Carolina TV
-https://pantera1-100GB-cl-movistar.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream0/chunks.m3u8
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5b6kRBtq2s.jpg" group-title="RADIOS JUVENILES",Radio Carolina TV 2
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://spectrumchannel.cl/wp-content/uploads/2021/05/cropped-LOGO-APP.png" group-title="RADIOS JUVENILES",SPECTRUM CHANNEL CHILE
-https://app.viloud.tv/hls/channel/f2eb3ddf5eb0bf6e040db535a7150e1e.m3u8
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:0,-RELIGIOSOS-
 
@@ -744,8 +718,7 @@ https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://i2.paste.pics/3d29bee85a41e947ab505098d83e8d64.png", Suyai TV * | CL
 https://5ff3d9babae13.streamlock.net:443/ewdnnusyjt/ewdnnusyjt/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1461" tvg-name="Los Rios Al Dia" tvg-logo="https://i2.paste.pics/654339e3e8e4096492037cfbca2ec3e2.png", Los Rios Al Dia * | CL
-https://losriosaldia.ngrok.app/hls/stream.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1457" tvg-name="Comunitaria Radio Tv" tvg-logo="https://i2.paste.pics/847f6fb846d40df92c90f6daff9730e9.png", Comunitaria Radio Tv * | CL
 https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1455" tvg-name="TV EnPlacilla" tvg-logo="https://i2.paste.pics/201212ba4a9e52d2a39ddb6bb86b18d5.png", TV EnPlacilla * | CL

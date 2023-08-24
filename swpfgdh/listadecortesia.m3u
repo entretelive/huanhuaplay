@@ -436,8 +436,7 @@ http://cast.miradio.in:8030/stream
 http://streaming.fmokey.cl:8000/razul.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/tf826bmbtrud.jpg" group-title="RADIOS ROCK Y POP",Rock&Pop Santiago
 http://26683.live.streamtheworld.com/ROCK_AND_POPAAC.aac
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/SYuQF5eUPW.png" group-title="RADIOS ROCK Y POP",FM Tiempo Santiago
-https://us-b5-p-e-kj2-audio.cdn.mdstrm.com/live-audio-aw/639b7943e0a27908a55dbf9e/hHcTRuFRMAn-338580555-4992.aac
+
 
 #EXTINF:0,-RADIOS INFORMATIVAS-
  
@@ -475,16 +474,12 @@ http://ice.digitalproserver.com/el_carbon
 http://200.24.229.253:8250/;stream.nsv
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/HUArzrv66U.jpg" group-title="RADIOS INFORMATIVAS",UCV Radio Valparaiso
 http://sonando.us.digitalproserver.com/ucvradio
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/04/70/18753/c175.png" group-title="RADIOS INFORMATIVAS",Portales Santiago
-http://audio1.tustreaming.cl:8060/stream
-#EXTINF:-1 tvg-logo="https://www.portalesfm.cl/img/logo2.png" group-title="RADIOS INFORMATIVAS",Portales Valparaiso
-http://archi-us.digitalproserver.com/portales-fm-valparaiso-vina-del-mar.aac
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s118528/images/logoq.jpg?t=159595" group-title="RADIOS INFORMATIVAS",Portales Señal Digital
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s118528/images/logoq.jpg?t=159595" group-title="RADIOS INFORMATIVAS",Radio Portales
 https://cdn.oneplaychile.cl:1936/radios/radioportales/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/MawJ8VKZpU.jpeg" group-title="RADIOS INFORMATIVAS",Radio Placeres Valparaiso
-http://192.99.18.164:9856/;
+https://sonic.streamingchilenos.com/9856/;
 #EXTINF:-1 tvg-logo="https://www.guiapenquista.cl/imagenes/radios/iv-region/la-serena/radio-montecarlo.jpg" group-title="RADIOS INFORMATIVAS",Montecarlo La Serena
-http://montecarloradiostation2.better-than.tv/stream/1/
+https://sonic.mallocohosting.cl/8032/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VXZYjbJS9V.jpeg" group-title="RADIOS INFORMATIVAS",Nuevo Mundo Santiago
 http://190.82.105.90:8012/stream/1/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/bumnmqjrupkq.jpg" group-title="RADIOS INFORMATIVAS",Radio Santiago
@@ -519,7 +514,7 @@ http://sonando.us.digitalproserver.com/libra.aac
 http://archi-us.digitalproserver.com/nexo.aac
  
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/yQWd3pdnYE.jpg" group-title="RADIOS LATINAS",Imagina Santiago
-https://20823.live.streamtheworld.com/IMAGINA_SC
+https://24283.live.streamtheworld.com/IMAGINAAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hNtDVvwQqV.jpg" group-title="RADIOS LATINAS",Pudahuel Santiago
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/ekzte2bcvnny.png" group-title="RADIOS LATINAS",Radio Santiago Romántica
@@ -529,7 +524,7 @@ https://audio4.tustreaming.cl/7036/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/hsNk3tD8hy.jpg" group-title="RADIOS LATINAS",Romantica Santiago
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/4ucHCg8xnR.jpeg" group-title="RADIOS LATINAS",FM DOS
-https://20833.live.streamtheworld.com/FMDOSAAC_SC
+https://27383.live.streamtheworld.com/FMDOSAAC.aac?
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/507f7e14c90088cdceda8b2aeaefb887.jpg" group-title="RADIOS LATINAS",Radio Colo-Colo Santiago
 http://audio2.tustreaming.cl:7040/stream/1/
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/h7gkztkxbptb.png" group-title="RADIOS LATINAS",Mi Radio La Serena
@@ -544,13 +539,13 @@ http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK
 http://streaming.fmokey.cl/FmOkValpo.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/a6eyesg65lgh.jpg" group-title="RADIOS JUVENILES",Radio Disney Santiago
-https://unlimited11-cl.dps.live/disney/mp364k/icecast.audio
+https://26513.live.streamtheworld.com/DISNEY_CHI_SA_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/WPFsYaygAP.jpg" group-title="RADIOS JUVENILES",Radio Activa Santiago
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://api-ws-multisite.arcatelmultisite.cl/api/file/download?privateUrl=tenant/5f3c3321cd4c9606e3df2963/settings/logos/2e567b7c-8b71-4c64-bedf-6b91cd020c76. png" group-title="RADIOS JUVENILES",Radio Canal 95 Antofagasta
 https://streaming.conectaapp.cl/canal95
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/emqfyafhqvpn.jpg" group-title="RADIOS JUVENILES",Los 40 Santiago
-https://20823.live.streamtheworld.com/LOS40_CHILE_SC
+https://27363.live.streamtheworld.com/LOS40_CHILEAAC.aac?
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5b6kRBtq2s.jpg" group-title="RADIOS JUVENILES",Radio Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/5b6kRBtq2s.jpg" group-title="RADIOS JUVENILES",Radio Carolina TV 2

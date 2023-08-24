@@ -371,16 +371,14 @@ https://unlimited11-cl.dps.live/p7puertomontt/aac/icecast.audio
 http://stream5.eltelon.com/radio-congreso.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/3d5qzdnck84w.jpg" group-title="RADIOS TROPICALES",Radio 88.7 Limache
 http://200.24.229.253:8225/;
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/plmataznuegu.png" group-title="RADIOS TROPICALES",Radio Santiago Tropical
-http://audio.mohosting.cl:7032/stream
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/867914723773345794/fArUaHEz_400x400.jpg" group-title="RADIOS TROPICALES",Cariñosa Chillan
 https://archi-us.digitalproserver.com/carinosa-fm.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/HmHnrRp9Ts.jpeg" group-title="RADIOS TROPICALES",Corazon Santiago
-https://20823.live.streamtheworld.com/CORAZON_SC
+https://26603.live.streamtheworld.com/CORAZON_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ab4kuhudpv9l.jpg" group-title="RADIOS TROPICALES",Radio Azucar Santiago
 https://audio1.tustreaming.cl:10953/azucarsantiago
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/udzzha86msry.png" group-title="RADIOS TROPICALES",Positiva FM Online
-http://radio.positivafm.cl:8000/positivafm
+https://radio.digitalfm.cl:8000/santiago2
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zb5yr2zbpnbk.png" group-title="RADIOS TROPICALES",Caramelo San Vicente
 http://cast.radioservicios.cl:8316/sanvicente
 #EXTINF:-1 tvg-logo="https://www.radioenergia.cl/new/wp-content/uploads/2020/10/GIF-FINAL.gif" group-title="RADIOS TROPICALES",Energia FM Chiguayante

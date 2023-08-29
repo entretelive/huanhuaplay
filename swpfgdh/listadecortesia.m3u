@@ -7,6 +7,12 @@
 https://5eaccbab48461.streamlock.net:1936/8254/8254/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="HUANHUATV PRODUCCIONES", HUANHUATV SPORTS
 https://5eaccbab48461.streamlock.net:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="HUANHUATV PRODUCCIONES",+MIX ROCK
+https://s3.tvdatta.com:3940/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="HUANHUATV PRODUCCIONES",+MIX RETRO
+https://s3.tvdatta.com:3681/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="HUANHUATV PRODUCCIONES",+MIX LATINO
+https://s3.tvdatta.com:3855/hybrid/play.m3u8
 
 #EXTINF:1,-DEPORTES-
 

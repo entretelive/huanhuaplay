@@ -17,7 +17,7 @@ https://s3.tvdatta.com:3855/hybrid/play.m3u8
 #EXTINF:1,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="DEPORTES", HUANHUATV SPORTS
-https://5eaccbab48461.streamlock.net:1936/8140/8140/chunklist_w856742597.m3u8
+https://s3.tvdatta.com:3617/hybrid/play.m3u8?deportes.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",Teletrak TV
@@ -31,9 +31,7 @@ https://vdo.panelstreaming.live:3058/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:1,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CHILE", HUANHUATV
-https://5eaccbab48461.streamlock.net:1936/8254/8254/chunklist_w853249988.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CHILE", HUANHUATV SPORTS
-https://5eaccbab48461.streamlock.net:1936/8140/8140/chunklist_w856742597.m3u8
+https://s3.tvdatta.com:3075/hybrid/play.m3u8?chile.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+
@@ -343,8 +341,9 @@ https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:0,-RADIOS TROPICALES-
- 
- 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="RADIOS TROPICALES",+MIX FIESTA
+https://s3.tvdatta.com:3855/hybrid/play.m3u8?fiesta.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/26hfjjqc2ulp.png" group-title="RADIOS TROPICALES",Radio Carnaval Antofagasta
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/9b5b2ffbxu4m.png" group-title="RADIOS TROPICALES",Radio Carnaval Ovalle
@@ -394,6 +393,10 @@ https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
  
 #EXTINF:0,-RADIOS ROCK Y POP-
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="RADIOS ROCK Y POP",+MIX ROCK
+https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="RADIOS ROCK Y POP",+MIX RETRO
+https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugXVC1NEUKDU9LXNyYUaT9EJgB46S6EFh5Gg6Envf2Aw6wNfL0LkV_7opvLqXDcFixPE&usqp=CAU" group-title="RADIOS ROCK Y POP",TH MUSIC
 https://panel.miplay.cl:8081/mix247tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dkjwzjhmsjy6.jpg" group-title="RADIOS ROCK Y POP",La Retro by Chico Perez Online

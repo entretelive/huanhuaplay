@@ -54,6 +54,10 @@ http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_4000.m3u8
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Emblema_del_Canal_13_Chile.png/1280px-Emblema_del_Canal_13_Chile.png" group-title="CHILE" Canal 13
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/30529109-76f3-467b-9ec9-80b0c304678f:SCL/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gs1tBf8/In-Shot-20230927-215604522.jpg" group-title="CHILE", TIERRA BRAVA Reality 24/7
+https://rudo.video/rudo.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CHILE", 13 Festival

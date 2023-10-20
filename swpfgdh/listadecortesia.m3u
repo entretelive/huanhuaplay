@@ -20,6 +20,26 @@ https://s3.tvdatta.com:3855/hybrid/play.m3u8
 https://s3.tvdatta.com:3127/live/tvhlive.m3u8?deportes.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="DEPORTES", HUANHUATV SPORTS
 https://s3.tvdatta.com:3525/live/hsportslive.m3u8?deportes.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 1
+https://live-panam2.panamsportschannel.org/live_abr/panam2/live/panam2_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 2
+https://live-panam.panamsportschannel.org/live_abr/panam3/live/panam3_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 3
+https://live-panam2.panamsportschannel.org/live_abr/panam6/live/panam6_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 4
+https://live-panam2.panamsportschannel.org/live_abr/panam8/live/panam8_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 5
+https://live-panam2.panamsportschannel.org/live_abr/panam10/live/panam10_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 6
+https://live-panam2.panamsportschannel.org/live_abr/panam12/live/panam12_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 7
+https://live-panam2.panamsportschannel.org/live_abr/panam14/live/panam14_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 8
+https://live-panam2.panamsportschannel.org/live_abr/panam16/live/panam16_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.panamsports.org/wp-content/uploads/2021/03/Screen-Shot-2020-12-22-at-10.02.21-AM-e1616429525957.png" group-title="DEPORTES", SANTIAGO 2023 CANAL 9
+https://live-panam2.panamsportschannel.org/live_abr/panam18/live/panam18_source/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",Teletrak TV

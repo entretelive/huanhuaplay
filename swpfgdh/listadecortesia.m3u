@@ -3,16 +3,16 @@
 
 #EXTINF:1,-PPV EVENTOS-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="PPV EVENTOS", HUANHUATV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/ppv-pay-per-view-type-260nw-2224850529.jpg" group-title="PPV EVENTOS", PPV 1
 https://s3.tvdatta.com:3127/live/tvhlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="PPV EVENTOS", HUANHUATV SPORTS
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/ppv-pay-per-view-type-260nw-2224850529.jpg" group-title="PPV EVENTOS", PPV 2
 https://s3.tvdatta.com:3525/live/hsportslive.m3u8
 
 #EXTINF:1,-DEPORTES-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="DEPORTES", PPV 1
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/ppv-pay-per-view-type-260nw-2224850529.jpg" group-title="DEPORTES", PPV 1
 https://s3.tvdatta.com:3127/live/tvhlive.m3u8?deportes.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="DEPORTES", PPV 2
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/ppv-pay-per-view-type-260nw-2224850529.jpg" group-title="DEPORTES", PPV 2
 https://s3.tvdatta.com:3525/live/hsportslive.m3u8?deportes.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
@@ -27,9 +27,9 @@ https://vdo.panelstreaming.live:3058/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/985SNwr/logo6-6-21945.png" group-title="CHILE", PPV 1
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/ppv-pay-per-view-type-260nw-2224850529.jpg" group-title="CHILE", PPV 1
 https://s3.tvdatta.com:3127/live/tvhlive.m3u8?chile.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJNC4M5/logo2-3-222647.png" group-title="CHILE", PPV 2
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/ppv-pay-per-view-type-260nw-2224850529.jpg" group-title="CHILE", PPV 2
 https://s3.tvdatta.com:3525/live/hsportslive.m3u8?chile.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?

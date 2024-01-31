@@ -7,6 +7,8 @@
 https://s3.tvdatta.com:3375/live/tvtcl1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LZH8Hy5/In-Shot-20231117-134320212.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2
 https://s3.tvdatta.com:3976/live/tvtcl2live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3NvJ7G/In-Shot-20240131-140854906.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET PPV
+https://s3.tvdatta.com:3855/live/mixlatinolive.m3u8
 
 #EXTINF:1,-DEPORTES-
 

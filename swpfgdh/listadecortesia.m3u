@@ -120,7 +120,7 @@ https://freestyledjs.ddns.net/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-CANALES REGIONALES-
 
-#EXTINF:-1 tvg-id="1501" tvg-name="Telenorte" tvg-logo="https://cdn.m3u.cl/logo/1501_Telenorte.png" group-title="CANALES REGIONALES", Telenorte
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1501_Telenorte.png" group-title="CANALES REGIONALES", Telenorte
 https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="311" tvg-name="Arica TV" tvg-logo="https://www.m3u.cl/logo/311_Arica_TV.jpg" group-title="CANALES REGIONALES" , Arica televisión | CL
 https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8

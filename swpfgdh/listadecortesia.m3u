@@ -668,7 +668,7 @@ https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-VARIOS CANALES ONLINE-
 
-#EXTINF:-1 tvg-id="881" tvg-name="Wapp" tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg", Wapp Tv
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg" group-title="VARIOS CANALES ONLINE", Wapp Tv
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png", CRTV CHILE
 https://vdo.panelstreaming.live:3058/hybrid/play.m3u8?PlaylistM3UCL

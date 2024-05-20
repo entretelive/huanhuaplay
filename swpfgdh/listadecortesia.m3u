@@ -17,7 +17,7 @@ https://s3.tvdatta.com:3375/live/tvtcl1live.m3u8?deportes.m3u8
 https://s3.tvdatta.com:3976/live/tvtcl2live.m3u8?deportes.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13d/13d.smil/playlist.m3u8
+https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/b102a269-cd80-439c-904d-f0e7c8a308cb:SCL/variant/0c2759fe993a7b9c1fbfcd34e4327de6/bandwidth/2669458.m3u8
 #EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",Teletrak TV
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", CDR MAGALLANES

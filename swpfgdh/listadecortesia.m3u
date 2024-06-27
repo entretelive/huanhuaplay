@@ -606,7 +606,8 @@ http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac
  
 #EXTINF:0,-RADIOS JUVENILES-
 
- 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="RADIOS JUVENILES", La Nuestra Radio
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/VjceYRgxmh.jpg" group-title="RADIOS JUVENILES",FM OK
 http://streaming.fmokey.cl/FmOkValpo.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/a6eyesg65lgh.jpg" group-title="RADIOS JUVENILES",Radio Disney Santiago

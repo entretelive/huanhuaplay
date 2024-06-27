@@ -52,7 +52,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/457_Canal_13.png" group-title="CHILE", Canal 13
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
+https://m3u.cl/channel/c13.php
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CHILE", 13 Festival
@@ -73,8 +73,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title=CHILE",Rec Tv
 https://marine2.miplay.cl/rec/mono.m3u8
-#EXTINF:-1 tvg-id="1511" tvg-name="Chile Tradiciones" tvg-logo="https://cdn.m3u.cl/logo/1511_Chile_Tradiciones.png", Chile Tradiciones ✪ | CL
-https://stmv5.voxtvhd.com.br/chiletradicionestv/chiletradicionestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1511" tvg-name="Chile Tradiciones" tvg-logo="https://cdn.m3u.cl/logo/1511_Chile_Tradiciones.png", Chile Tradiciones
+https://stmv5.voxtvhd.com.br/chiletradicionestv/chiletradicionestv/playlist.m3u8
 
 #EXTINF:0,-MUSICA-
 
@@ -545,6 +545,8 @@ https://unlimited4-us.dps.live/biobioosorno/mp3/icecast.audio
 https://unlimited4-us.dps.live/biobiopuertomontt/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/eBVEfRQMfp.jpg" group-title="RADIOS INFORMATIVAS",Radio Agricultura Santiago
 https://unlimited1-cl-isp.dps.live/921tv/921tv.smil/921tv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png" group-title="RADIOS INFORMATIVAS",T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio.uchile.cl/wp-includes/images/ruchog.jpg" group-title="RADIOS INFORMATIVAS",Radio UCH Santiago
 http://streamuchile.teslati.com/liveruch
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/aqh7ef6kvsd7.png" group-title="RADIOS INFORMATIVAS",Radio El Carbon de Lota

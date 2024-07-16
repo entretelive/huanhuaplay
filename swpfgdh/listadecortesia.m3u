@@ -3,18 +3,20 @@
 
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4smcRrS/In-Shot-20240227-164002953.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET DEPORTES
-https://s3.tvdatta.com:3250/live/tvtdlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qf6xVrR/In-Shot-20240227-164028146.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQ6wctt/logo7-4-235342.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
 https://s3.tvdatta.com:3789/live/tvtplive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kFMcG4/In-Shot-20240714-221614550.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV DEPORTES TICKET
+https://s3.tvdatta.com:3250/live/tvtdlive.m3u8
+
 
 
 #EXTINF:1,-DEPORTES-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4smcRrS/In-Shot-20240227-164002953.png" group-title="DEPORTES", TV-TICKET DEPORTES
-https://s3.tvdatta.com:3250/live/tvtdlive.m3u8?deportes.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qf6xVrR/In-Shot-20240227-164028146.png" group-title="DEPORTES", TV-TICKET PLUS (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQ6wctt/logo7-4-235342.png" group-title="DEPORTES", TV-TICKET
 https://s3.tvdatta.com:3789/live/tvtplive.m3u8?deportes.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kFMcG4/In-Shot-20240714-221614550.png" group-title="DEPORTES", PPV DEPORTES TICKET
+https://s3.tvdatta.com:3250/live/tvtdlive.m3u8?deportes.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
 https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/b102a269-cd80-439c-904d-f0e7c8a308cb:SCL/variant/0c2759fe993a7b9c1fbfcd34e4327de6/bandwidth/2669458.m3u8
@@ -27,7 +29,7 @@ https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8?Playlist
 #EXTINF:1,-CHILE-
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qf6xVrR/In-Shot-20240227-164028146.png" group-title="CHILE", TV-TICKET PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQ6wctt/logo7-4-235342.png" group-title="CHILE", TV-TICKET
 https://s3.tvdatta.com:3789/live/tvtplive.m3u8?chile.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?

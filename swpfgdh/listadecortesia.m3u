@@ -58,9 +58,11 @@ https://marine2.miplay.cl/chvchile/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/457_Canal_13.png" group-title="CHILE", Canal 13
-https://m3u.cl/channel/c13.php
+https://scl.edge.grupoz.cl/transmision/live/chunklist_w1819499443.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+https://scl.edge.grupoz.cl/transmision/live/chunklist_w341024187.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5e21ae0b0b6ea20001fcf4b9.PNG" group-title="CHILE", 13c
+https://marine2.miplay.cl/canal13cable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CHILE", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/07b96c9485f731aafdc798a406320c94.png" group-title="CHILE", 13 Humor

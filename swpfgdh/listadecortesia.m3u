@@ -17,7 +17,7 @@ https://s3.tvdatta.com:3789/live/tvtplive.m3u8?deportes.m3u8
 https://s3.tvdatta.com:3250/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
-https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/b102a269-cd80-439c-904d-f0e7c8a308cb:SCL/variant/0c2759fe993a7b9c1fbfcd34e4327de6/bandwidth/2669458.m3u8
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",Teletrak TV
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", CDR MAGALLANES
@@ -58,9 +58,9 @@ https://marine2.miplay.cl/chvchile/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/457_Canal_13.png" group-title="CHILE", Canal 13
-https://scl.edge.grupoz.cl/transmision/live/chunklist_w1819499443.m3u8
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
-https://scl.edge.grupoz.cl/transmision/live/chunklist_w341024187.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5e21ae0b0b6ea20001fcf4b9.PNG" group-title="CHILE", 13c
 https://marine2.miplay.cl/canal13cable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CHILE", 13 Festival

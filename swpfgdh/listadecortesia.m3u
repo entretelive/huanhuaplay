@@ -78,7 +78,6 @@ https://stmv5.voxtvhd.com.br/chiletradicionestv/chiletradicionestv/playlist.m3u8
 
 #EXTINF:0,-MUSICA-
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="MUSICA",+MIX ROCK
 https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="MUSICA",+MIX RETRO
@@ -100,7 +99,7 @@ https://marine2.miplay.cl/tocahitstropical/tracks-v1a1/mono.m3u8
 https://marine2.miplay.cl/tocahitsconciertos/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfb597313e00014dfe02.JPG" group-title="MUSICA",TOCAHITS URBANO
 https://marine2.miplay.cl/tocahitsurbano/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfd597313e00014dff6c.JPG" group-title="MUSICA",TOCAHITS POP HITS
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfd597313e00014dff6c.JPG" group-title="MUSICA",TOCAHITS MUSIC
 https://marine2.miplay.cl/tocahitspophits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4c02097313e00014e02f5.JPG" group-title="MUSICA",TOCAHITS KARAOKE
 https://marine2.miplay.cl/tocahitskaraoke/tracks-v1a1/mono.m3u8

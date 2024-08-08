@@ -687,6 +687,8 @@ https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-VARIOS CANALES ONLINE-
 
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/65f47c89d5ac4700018dec09.PNG" group-title="VARIOS CANALES ONLINE",TOCAHITS GO
+https://marine2.miplay.cl/mix247tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/881_Wapp.jpg" group-title="VARIOS CANALES ONLINE", Wapp Tv
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png", CRTV CHILE

@@ -78,12 +78,33 @@ https://stmv5.voxtvhd.com.br/chiletradicionestv/chiletradicionestv/playlist.m3u8
 
 #EXTINF:0,-MUSICA-
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="MUSICA",+MIX ROCK
 https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="MUSICA",+MIX RETRO
 https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="MUSICA",+MIX FIESTA
 https://s3.tvdatta.com:3855/hybrid/play.m3u8?fiesta.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfc597313e00014dfeb7.JPG" group-title="MUSICA",TOCAHITS RETROMIX
+https://marine2.miplay.cl/tocahitsretromix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfa497313e00014dfd4d.JPG" group-title="MUSICA",TOCAHITS RETRO
+https://marine2.miplay.cl/tocahitsretro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4c00f97313e00014e0240.JPG" group-title="MUSICA",TOCAHITS ROCK POP
+https://marine2.miplay.cl/tocahitsrockpop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bff297313e00014e00d6.JPG" group-title="MUSICA",TOCAHITS FIESTA
+https://marine2.miplay.cl/tocahitsfiesta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfe497313e00014e0021.JPG" group-title="MUSICA",TOCAHITS TROPICAL
+https://marine2.miplay.cl/tocahitstropical/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4c00197313e00014e018b.JPG" group-title="MUSICA",TOCAHITS CONCIERTOS
+https://marine2.miplay.cl/tocahitsconciertos/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfb597313e00014dfe02.JPG" group-title="MUSICA",TOCAHITS URBANO
+https://marine2.miplay.cl/tocahitsurbano/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfd597313e00014dff6c.JPG" group-title="MUSICA",TOCAHITS POP HITS
+https://marine2.miplay.cl/tocahitspophits/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4c02097313e00014e02f5.JPG" group-title="MUSICA",TOCAHITS KARAOKE
+https://marine2.miplay.cl/tocahitskaraoke/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", RetroPlus
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", RetroPlus 2
@@ -472,8 +493,6 @@ https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
 https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="RADIOS ROCK Y POP",+MIX RETRO
 https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugXVC1NEUKDU9LXNyYUaT9EJgB46S6EFh5Gg6Envf2Aw6wNfL0LkV_7opvLqXDcFixPE&usqp=CAU" group-title="RADIOS ROCK Y POP",TH MUSIC
-https://panel.miplay.cl:8081/mix247tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dkjwzjhmsjy6.jpg" group-title="RADIOS ROCK Y POP",La Retro by Chico Perez Online
 https://s2.radio.co/s9ecef4f68/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/rg4rbgq2qdh6.png" group-title="RADIOS ROCK Y POP",Radio Contemporanea Aconcagua

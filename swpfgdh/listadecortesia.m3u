@@ -105,9 +105,9 @@ https://marine2.miplay.cl/tocahitspophits/tracks-v1a1/mono.m3u8
 https://marine2.miplay.cl/tocahitskaraoke/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", RetroPlus
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", RetroPlus 2
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png", VClassicTV Tropical
@@ -693,8 +693,6 @@ https://marine2.miplay.cl/mix247tv/tracks-v1a1/mono.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png", CRTV CHILE
 https://vdo.panelstreaming.live:3058/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/4_Retro_Plus_TV.png", RetroPlus Entretencion
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1436" tvg-name="Apanines TV" tvg-logo="https://cdn.m3u.cl/logo/1436_Apanines_TV.png", Apanines TV 
 https://tgn.bozztv.com/ssh101/ssh101/apaninestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1466" tvg-name="Pandamax TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png", Pandamax TV 

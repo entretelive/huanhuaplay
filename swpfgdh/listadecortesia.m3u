@@ -75,6 +75,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://marine2.miplay.cl/rec/mono.m3u8
 #EXTINF:-1 tvg-id="1511" tvg-name="Chile Tradiciones" tvg-logo="https://cdn.m3u.cl/logo/1511_Chile_Tradiciones.png", Chile Tradiciones
 https://stmv5.voxtvhd.com.br/chiletradicionestv/chiletradicionestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5f4432da2b2e90000122e1e6.PNG", TV Salud
+https://marine2.miplay.cl/tvsalud/tracks-v1a1/mono.m3u8
 
 #EXTINF:0,-MUSICA-
 
@@ -243,7 +245,7 @@ https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="58" tvg-name="Universidad Autonoma TV" tvg-logo="https://www.m3u.cl/logo/58_Universidad_Autonoma_TV.png" group-title="CANALES REGIONALES" , Universidad Autónoma TV
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CANALES REGIONALES" ,Santiago Tv
-https://stv.janus.cl/playlist/stream.m3u8
+https://marine2.miplay.cl/stgotv/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-id="1457" tvg-name="Comunitaria Radio Tv" tvg-logo="https://cdn.m3u.cl/logo/1457_Comunitaria_Radio_Tv.png", Comunitaria Radio tv
 https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://i2.paste.pics/5d64fe0c6e8c1d3be74a7982fc408dab.png" group-title="CANALES REGIONALES", Tendencias Prime
@@ -260,8 +262,6 @@ http://live.mundogo.cl/mundo/Pintanatv/index.m3u8
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1120" tvg-name="Autonoma TV" tvg-logo="https://i2.paste.pics/c00eb38ed6d7b15ebc179af065730860.png" group-title="CANALES REGIONALES", Autonoma TV 
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="999" tvg-name="38TV" tvg-logo="https://i2.paste.pics/3cc1950b0f0c4ad15752bd5b6646fdf6.png" group-title="CANALES REGIONALES", 38TV 
-https://v2.tustreaming.cl:19360/38tv/38tv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="338" tvg-name="Canal 57 Melipilla" tvg-logo="https://www.m3u.cl/logo/338_Canal_57_Melipilla.png" group-title="CANALES REGIONALES" , Canal 57 Melipilla 
 https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://www.m3u.cl/logo/337_Buin_Somos_Todos.png" group-title="CANALES REGIONALES" , Buin Somos Todos 
@@ -357,6 +357,8 @@ https://vdo.panelstreaming.live:3658/stream/play.m3u8?PlaylistM3UCL
 https://vdochile.com:3774/live/cnrhiawklive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1482" tvg-name="Radio Eva Digital" tvg-logo="https://cdn.m3u.cl/logo/1482_Radio_Eva_Digital.png", Eva TV Lota
 https://5ff3d9babae13.streamlock.net/zdznafaere/zdznafaere/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/60318f498430d00001841500.PNG", Canal Dos Los Angeles
+https://marine2.miplay.cl/dos/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 tvg-id="810" tvg-name="Club TV" tvg-logo="https://www.m3u.cl/logo/810_Club_TV.png" group-title="CANALES REGIONALES" , Club televisión 
 https://stmv5.voxtvhd.com.br/clubtv/clubtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="82" tvg-name="Teleangol Radio" tvg-logo="https://www.m3u.cl/logo/82_Teleangol_Radio.png" group-title="CANALES REGIONALES" , Teleangol
@@ -364,7 +366,7 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 #EXTINF:-1 tvg-id="1318" tvg-name="Los Sauces TV" tvg-logo="https://cdn.m3u.cl/logo/1318_Los_Sauces_TV.png", Los Sauces TV
 http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="83" tvg-name="Pucon TV" tvg-logo="https://www.m3u.cl/logo/83_Pucon_TV.png" group-title="CANALES REGIONALES" , Pucon televisión 
-https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
+https://marine2.miplay.cl/pucontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1385" tvg-name="Veo TV" tvg-logo="https://i.paste.pics/801cf9a8ebc73581ca137bde012b80e1.png" group-title="CANALES REGIONALES", Veo TV
 https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1318" tvg-name="Los Sauces TV" tvg-logo="https://i.paste.pics/317980a53f40f246ec8a386f10c2fe9e.png" group-title="CANALES REGIONALES", Los Sauces TV 

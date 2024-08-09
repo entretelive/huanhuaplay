@@ -73,10 +73,18 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title=CHILE",Rec Tv
 https://marine2.miplay.cl/rec/mono.m3u8
-#EXTINF:-1 tvg-id="1511" tvg-name="Chile Tradiciones" tvg-logo="https://cdn.m3u.cl/logo/1511_Chile_Tradiciones.png", Chile Tradiciones
-https://stmv5.voxtvhd.com.br/chiletradicionestv/chiletradicionestv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR
+https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CHILE" ,Santiago Tv
+https://marine2.miplay.cl/stgotv/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-id="438" tvg-name="Tevex" tvg-logo="https://cdn.m3u.cl/logo/438_Tevex.png", Tevex 
+https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png", Chile Channel 
+https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5f4432da2b2e90000122e1e6.PNG", TV Salud
 https://marine2.miplay.cl/tvsalud/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:0,-MUSICA-
 
@@ -729,6 +737,8 @@ https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
 https://panel.tvstream.cl:1936/8058/8058/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1484" tvg-name="Zona de Prensa" tvg-logo="https://cdn.m3u.cl/logo/1484_Zona_de_Prensa.png", Zona de Prens
 https://stmv5.voxtvhd.com.br/zonadeprensa/zonadeprensa/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1511" tvg-name="Chile Tradiciones" tvg-logo="https://cdn.m3u.cl/logo/1511_Chile_Tradiciones.png", Chile Tradiciones
+https://stmv5.voxtvhd.com.br/chiletradicionestv/chiletradicionestv/playlist.m3u8
 #EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png", La Nuestra 
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1332" tvg-name="ClickRadio.cl" tvg-logo="https://cdn.m3u.cl/logo/1332_ClickRadio_cl.png", ClickRadio.cl 
@@ -743,12 +753,6 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="430" tvg-name="Sello de Raza TV" tvg-logo="https://cdn.m3u.cl/logo/430_Sello_de_Raza_TV.png", Sello de Raza TV 
 https://stmv5.voxtvhd.com.br/selloderazatv/selloderazatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="438" tvg-name="Tevex" tvg-logo="https://cdn.m3u.cl/logo/438_Tevex.png", Tevex 
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://cdn.m3u.cl/logo/436_TV_Salud.png", TV Salud
-https://panel.miplay.cl:8081/tvsalud/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png", Chile Channel 
-https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1111" tvg-name="Canal Turismo Travel TV" tvg-logo="https://cdn.m3u.cl/logo/1111_Canal_Turismo_Travel_TV.png", Canal Turismo Travel TV 
 https://vdo.panelstreaming.live:3740/stream/play.m3u8?PlaylistM3UCL
 

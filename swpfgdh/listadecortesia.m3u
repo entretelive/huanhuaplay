@@ -52,7 +52,7 @@ https://marine2.miplay.cl/megacl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-w.tvdaldia.cl/epg.libs/img/logos/logo_mega2_l.png" group-title="CHILE",Mega 2
 https://edzeta.cl/lista-zeta/Mega_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wRfTQJr/images.jpg" group-title="CHILE", Meganoticias
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+https://edzeta.cl/lista-zeta/Mega_Noticias_AHORA.m3u8
 #EXTINF:-1 tvg-logo="https://www.anda.cl/wp-content/uploads/2018/08/ElNuevoChilevision-1-1.png" group-title="CHILE",ChileVision
 https://marine2.miplay.cl/chvchile/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV

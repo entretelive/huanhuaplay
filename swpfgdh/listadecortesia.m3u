@@ -38,9 +38,9 @@ https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/UCV_2_2014.png/revision/latest?cb=20190813044108&path-prefix=es" group-title="CHILE",UCV TV 2
 https://pantera1-100GB-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvn.cl/incoming/logotipo2020png-5317342/alternates/BASE_FREE/Logotipo%282020%29.png" group-title="CHILE",TVN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" group-title="CHILE",TVN
 https://marine2.miplay.cl/tvnchile/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="CHILE",TV CHILE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE",TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="CHILE",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8

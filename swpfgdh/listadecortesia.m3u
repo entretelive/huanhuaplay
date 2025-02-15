@@ -5,8 +5,12 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9p7K4kC/In-Shot-20250102-044139051.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV DEPORTES TICKET
 https://s3.tvdatta.com:3760/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcBggp3/In-Shot-20250102-044046976.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV EVENTOS TICKET
+#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", COSQUIN ROCK ESCENARIO NORTE
 https://s3.tvdatta.com:3167/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", COSQUIN ROCK ESCENARIO SUR
+https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
+#EXTINF:-1 tvg-logo="https://cosquinrock.net/wp-content/uploads/2024/07/CR25_web.png" group-title="PPV EVENTOS ( Pay Per View ) ", COSQUIN ROCK ESCENARIO MONTAÑA
+https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 
 
 #EXTINF:1,-DEPORTES-

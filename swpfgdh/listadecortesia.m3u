@@ -3,10 +3,12 @@
 
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET (Deportes)
 https://s3.tvdatta.com:3760/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
+#EXTINF:-1 tvg-logo="https://www.zarpado.com/wp-content/uploads/2025/04/qr-abril-25.png" group-title="PPV EVENTOS ( Pay Per View ) ", QUILMES ROCK 2025 SEÑAL 1
 https://s3.tvdatta.com:3167/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.zarpado.com/wp-content/uploads/2025/04/qr-abril-25.png" group-title="PPV EVENTOS ( Pay Per View ) ", QUILMES ROCK 2025 SEÑAL 2
+https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
 
 
 #EXTINF:1,-DEPORTES-

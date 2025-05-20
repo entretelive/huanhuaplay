@@ -4,18 +4,18 @@
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
-https://s3.tvdatta.com:3760/hybrid/play.m3u8
+https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
-https://s3.tvdatta.com:3167/hybrid/play.m3u8
+https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8
 
 
 #EXTINF:1,-DEPORTES-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="DEPORTES", PPV TICKET
-https://s3.tvdatta.com:3760/hybrid/play.m3u8?deportes.m3u8
+https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8?eventos1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="DEPORTES", PPV TICKET 2
-https://s3.tvdatta.com:3167/hybrid/play.m3u8?eventos.m3u8
+https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8?eventos2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL

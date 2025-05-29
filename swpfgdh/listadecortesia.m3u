@@ -58,7 +58,7 @@ https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/457_Canal_13.png" group-title="CHILE", Canal 13
 https://marine2.miplay.cl/c13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png group-title="CHILE", Canal 13 Internacional
-https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
 https://marine2.miplay.cl/t13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5e21ae0b0b6ea20001fcf4b9.PNG" group-title="CHILE", 13c
@@ -82,13 +82,13 @@ https://marine2.miplay.cl/rec/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CHILE" ,Santiago Tv
-https://marine2.miplay.cl/stgotv/tracks-v1/mono.m3u8
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
 #EXTINF:-1 tvg-id="438" tvg-name="Tevex" tvg-logo="https://cdn.m3u.cl/logo/438_Tevex.png", Tevex 
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://cdn.m3u.cl/logo/435_Chile_Channel.png", Chile Channel 
 https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5f4432da2b2e90000122e1e6.PNG", TV Salud
-https://marine2.miplay.cl/tvsalud/tracks-v1a1/mono.m3u8
+https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 
 
 

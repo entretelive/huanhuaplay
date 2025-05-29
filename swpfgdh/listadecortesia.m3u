@@ -17,7 +17,7 @@ https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8?eventos1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="DEPORTES", PPV TICKET 2
 https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8?eventos2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",CHV Deportes
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="DEPORTES",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL

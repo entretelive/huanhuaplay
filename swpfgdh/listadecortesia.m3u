@@ -17,13 +17,14 @@ https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8?eventos1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="DEPORTES", PPV TICKET 2
 https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8?eventos2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",CHV Deportes
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",Teletrak TV
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", CDR MAGALLANES
-https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8?PlaylistM3UCL
-
+https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-CHILE-
 
@@ -31,7 +32,7 @@ https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/619d776e549826000120a00c.JPG" group-title="CHILE", TV+ 2
 https://marine2.miplay.cl/tateti/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV TV
@@ -51,23 +52,31 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/megacl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.anda.cl/wp-content/uploads/2018/08/ElNuevoChilevision-1-1.png" group-title="CHILE",ChileVision
-https://marine2.miplay.cl/chvchile/tracks-v1a1/mono.m3u8
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/457_Canal_13.png" group-title="CHILE", Canal 13
 https://marine2.miplay.cl/c13/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png group-title="CHILE", Canal 13 Internacional
+
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
 https://marine2.miplay.cl/t13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5e21ae0b0b6ea20001fcf4b9.PNG" group-title="CHILE", 13c
 https://marine2.miplay.cl/canal13cable/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e0fd4b83e18449e31fca784e9ed7df03.png" group-title="CHILE", 13 Festival
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/22b32c8870b49a5fad925b53b7485aa5.png" group-title="CHILE", 13 Realities
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="CHILE", 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c04bad5b9339444b2acb44912d04b0a7.png" group-title="CHILE", 13 Cultura
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="CHILE", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Teleseries
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" group-title="CHILE", 13 Cocina
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="CHILE", 13 Pop
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1684_13_Viajes.png" group-title="CHILE", 13 Viajes
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title=CHILE",Rec Tv
 https://marine2.miplay.cl/rec/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR
@@ -506,7 +515,7 @@ http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/x8dmvjrhpzkq.png" group-title="RADIOS ROCK Y POP",Radio Zeta Online
 https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/plbkpc649v9x.jpg" group-title="RADIOS ROCK Y POP",Maxima FM Online
-https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/chunklist_w1015397969_b2302471.m3u8
+https://live.tvcontrolcp.com:1936/maximafmchilenuevo/maximafmchilenuevo/chunklist_w902612875.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Digital FM
 https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dhdwjn3lyjtg.jpg" group-title="RADIOS ROCK Y POP",Radio Rock Chileno Online

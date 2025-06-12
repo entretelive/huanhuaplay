@@ -514,44 +514,40 @@ https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
 https://s2.radio.co/s9ecef4f68/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/rg4rbgq2qdh6.png" group-title="RADIOS ROCK Y POP",Radio Contemporanea Aconcagua
 http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/x8dmvjrhpzkq.png" group-title="RADIOS ROCK Y POP",Radio Zeta Online
-https://unlimited1-cl-isp.dps.live/radioztv/radioztv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/plbkpc649v9x.jpg" group-title="RADIOS ROCK Y POP",Maxima FM Online
 https://live.tvcontrolcp.com:1936/maximafmchilenuevo/maximafmchilenuevo/chunklist_w902612875.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="RADIOS ROCK Y POP",Digital FM
 https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dhdwjn3lyjtg.jpg" group-title="RADIOS ROCK Y POP",Radio Rock Chileno Online
-http://cp2.shoutcheap.com:8300/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s84637/images/logog.jpg?t=152458" group-title="RADIOS ROCK Y POP",Radio Ritoque Valparaiso
 http://sonando.us.digitalproserver.com/ritoquefm_aac
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s84637/images/logog.jpg?t=152458" group-title="RADIOS ROCK Y POP",Radio Ritoque TV
+https://v2.tustreaming.cl/unetev/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.vinafm.cl/vinafm/site/artic/20181205/imag/foto_0000000320181205132824/LOGO_VInAFM_OSCURO_CON_DIAL.png" group-title="RADIOS ROCK Y POP",Viña FM
 https://vinafm2.janus.cl/playlist/stream.m3u8?s=hd&t=&id=llo63vpv&q=&d=w
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/wGqaMFYxRP.jpg" group-title="RADIOS ROCK Y POP",Concierto Santiago
-https://24383.live.streamtheworld.com/CONCIERTOAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/rWue2rVhYk.jpg" group-title="RADIOS ROCK Y POP",Universo Santiago
 https://unlimited11-cl.dps.live/universo/aac/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/axphcaduq9nq.jpg" group-title="RADIOS ROCK Y POP",Club 80 Retro
-https://radio.streaminghires.cl:8002/stream?icy=http
+https://stream.radioclub80.cl:8022/retro80.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mjhtydpfhmae.jpg" group-title="RADIOS ROCK Y POP",Club 80 Dance
-https://radio.streaminghires.cl/8004/stream
+https://ec7.yesstreaming.net/radioclub80dance
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/zmafrq6mg8rb.jpg" group-title="RADIOS ROCK Y POP",Enfasis Villa Alemana
-https://player.voxhdnet.com/proxy/7108
+https://stm3.srvif.com:7190/stream//
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jlng6ty5ybzk.jpg" group-title="RADIOS ROCK Y POP",Radio Somos de Limache
-https://streaming1.tecnoera.com:8230/;
+https://streaming1.tecnoera.com:8242/;
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/futuro.png" group-title="RADIOS ROCK Y POP",Futuro Santago
 https://27403.live.streamtheworld.com/FUTUROAAC.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/jbtjbakey9qs.jpeg" group-title="RADIOS ROCK Y POP",Nostalgica Plus Copiapo
 http://unlimited11-cl.dps.live/nostalgicaplus/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/gemyellvh3wm.png" group-title="RADIOS ROCK Y POP",Radio Galaxia Online
 http://sscl.denialstream.com:8830/;stream/1.mp3
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/63092.v8.png" group-title="RADIOS ROCK Y POP",Radio 80s Online
-https://xmedia.nexus:2020/stream/radio80s/stats?json=1&sid=1&callback=jQuery32104436049240890776_1692902463257&_=1692902463258
 #EXTINF:-1 tvg-logo="http://powerplaydiscotheque.com/sitio/wp-content/uploads/2019/03/cropped-logo-1.png" group-title="RADIOS ROCK Y POP",Powerplay
 http://cast.miradio.in:8030/stream
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xq5mhgagnxkx.jpg" group-title="RADIOS ROCK Y POP",Radio Azul Los Andes
 http://streaming.fmokey.cl:8000/razul.mp3
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/tf826bmbtrud.jpg" group-title="RADIOS ROCK Y POP",Rock&Pop Santiago
-https://27263.live.streamtheworld.com/ROCK_AND_POP_SC
+https://27573.live.streamtheworld.com/ROCK_AND_POPAAC.aac
 
 #EXTINF:0,-RADIOS INFORMATIVAS-
  

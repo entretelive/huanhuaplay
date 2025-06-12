@@ -129,29 +129,23 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png", VClassicTV Tropical
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://cdn.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1312" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png", Eternal Metal
-https://vdo.panelstreaming.live:3261/hybrid/play.m3u8?PlaylistM3UCL
+https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://cdn.m3u.cl/logo/996_Latinos_Radio.png", Latinos Radio
-https://stmv5.voxtvhd.com.br/latinosmedia/latinosmedia/playlist.m3u8?PlaylistM3UCL
+https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV Music" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV_Music.png", PlanetaTV Music
-https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
+https:\\tls-cl.cdnz.cl\planetatv\live\playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV 
-https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1338" tvg-name="Karavana TV" tvg-logo="https://cdn.m3u.cl/logo/1338_Karavana_TV.png", Karavana TV 
-http://video.karavanatv.com:8081/live/karavanaweb/playlist.m3u8?PlaylistM3UCL
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TV 
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1552" tvg-name="Nina TV" tvg-logo="https://cdn.m3u.cl/logo/1552_Nina_TV.png", Nina Tv
-https://vdo.streaming-chile.com:3373/live/radioninalive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1550" tvg-name="M Music TV" tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png", M Music TV
-https://cdn.mycloudstream.io/hls/live/broadcast/hdc1pno4/mono.m3u8?PlaylistM3UCL
+https://tv1.ninatv.cl/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1541" tvg-name="Sabrosona TV" tvg-logo="https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png", Sabrosona TV
 https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1181" tvg-name="Freestyledjs" tvg-logo="https://cdn.m3u.cl/logo/1181_Freestyledjs.png", Freestyledjs TV
-https://freestyledjs.ddns.net/hls/stream.m3u8?PlaylistM3UCL
 
 
 #EXTINF:0,-CANALES REGIONALES-

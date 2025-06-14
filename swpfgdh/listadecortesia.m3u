@@ -3,25 +3,24 @@
 
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgGVwfrK/In-Shot-20250612-010112053.png" group-title="PPV EVENTOS ( Pay Per View ) ", MUNDIAL TICKET
+https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
 https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET 2
-https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8
 
 
 #EXTINF:1,-DEPORTES-
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="DEPORTES", PPV TICKET
-https://s3.tvdatta.com:3648/live/ppvtk1live.m3u8?eventos1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc7KhDJ6/In-Shot-20250219-214235420.png" group-title="DEPORTES", PPV TICKET 2
-https://s3.tvdatta.com:3588/live/ppvtk2live.m3u8?eventos2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgGVwfrK/In-Shot-20250612-010112053.png" group-title="PPV EVENTOS ( Pay Per View ) ", MUNDIAL TICKET
+https://s3.tvdatta.com:3588/live/ppvtk1live.m3u8?mundialt.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="DEPORTES",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES",Deportes 13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",Teletrak TV
+#EXTINF:-1 tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3.png" group-title="DEPORTES",TELETRAK TV
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", CDR MAGALLANES
 https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
@@ -29,7 +28,7 @@ https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
 #EXTINF:1,-CHILE-
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",La Red
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",LA RED
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+
 https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
@@ -47,23 +46,23 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png" group-title="CHILE",NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="CHILE",Canal 24 Horas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="CHILE",CANAL 24 HORAS
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="CHILE",Mega
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="CHILE",MEGA
 https://marine2.miplay.cl/megacl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.anda.cl/wp-content/uploads/2018/08/ElNuevoChilevision-1-1.png" group-title="CHILE",ChileVision
+#EXTINF:-1 tvg-logo="https://www.anda.cl/wp-content/uploads/2018/08/ElNuevoChilevision-1-1.png" group-title="CHILE",CHILEVISIÓN
 https://marine2.miplay.cl/chvchile/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="CHILE",ChileVision Noticias
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="CHILE",CHILEVISIÓN NOTICIAS
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U Chile TV
+#EXTINF:-1 tvg-id="1017" tvg-name="U Chile TV" tvg-logo="https://www.m3u.cl/logo/1017_U_Chile_TV.png" group-title="CHILE", U CHILE TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/457_Canal_13.png" group-title="CHILE", Canal 13
+#EXTINF:-1 tvg-logo="http://cdn.m3u.cl/logo/457_Canal_13.png" group-title="CHILE", CANAL 13
 https://marine2.miplay.cl/c13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png group-title="CHILE", Canal 13 Internacional
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png group-title="CHILE", CANAL 13 INTERNACIONAL 
 https://redirector.dps.live/hls/13intav/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/1054_T13.png" group-title="CHILE", T13
 https://marine2.miplay.cl/t13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5e21ae0b0b6ea20001fcf4b9.PNG" group-title="CHILE", 13c
+#EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/5e21ae0b0b6ea20001fcf4b9.PNG" group-title="CHILE", 13C 
 https://marine2.miplay.cl/canal13cable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="CHILE", 13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8?PlaylistM3UCL

@@ -95,12 +95,12 @@ https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 
 #EXTINF:0,-MUSICA-
 
-#EXTINF:-1 tvg-logo="hhttps://i.ibb.co/xXctRjV/In-Shot-20250102-215045987.png" group-title="MUSICA",+MIX ROCK
-https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xXctRjV/In-Shot-20250102-215045987.png" group-title="MUSICA",+MIX ROCK
+https://vdo1.panelstreaming.live:3393/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQ963Cv/In-Shot-20250102-215002775.png" group-title="MUSICA",+MIX RETRO
-https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
+https://vdo1.panelstreaming.live:3069/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdTjjYr/In-Shot-20250102-215056787.png" group-title="MUSICA",+MIX FIESTA
-https://s3.tvdatta.com:3855/hybrid/play.m3u8?fiesta.m3u8
+https://vdo1.panelstreaming.live:3230/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="http://content.miplay.prod.alphaott.com/images/channel-logo/63f4bfc597313e00014dfeb7.JPG" group-title="MUSICA",TOCAHITS RETROMIX
 https://marine2.miplay.cl/tocahitsretromix/tracks-v1a1/mono.m3u8
@@ -444,6 +444,8 @@ https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0,-RADIOS TROPICALES-
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdTjjYr/In-Shot-20250102-215056787.png" group-title="RADIOS TROPICALES",+MIX FIESTA
+https://vdo1.panelstreaming.live:3230/hybrid/play.m3u8?FIESTA
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/26hfjjqc2ulp.png" group-title="RADIOS TROPICALES",Radio Carnaval Antofagasta
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/carnaval-la-serena.png" group-title="RADIOS TROPICALES",Radio Carnaval Calama
@@ -499,10 +501,10 @@ https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
  
 #EXTINF:0,-RADIOS ROCK Y POP-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="RADIOS ROCK Y POP",+MIX ROCK
-https://s3.tvdatta.com:3940/hybrid/play.m3u8?rock.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ys8PkCj/logo10-25-13155.png" group-title="RADIOS ROCK Y POP",+MIX RETRO
-https://s3.tvdatta.com:3681/hybrid/play.m3u8?retro.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xXctRjV/In-Shot-20250102-215045987.png" group-title="RADIOS ROCK Y POP",+MIX ROCK
+https://vdo1.panelstreaming.live:3393/hybrid/play.m3u8?ROCK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ963Cv/In-Shot-20250102-215002775.png" group-title="RADIOS ROCK Y POP",+MIX RETRO
+https://vdo1.panelstreaming.live:3069/hybrid/play.m3u8?RETRO
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dkjwzjhmsjy6.jpg" group-title="RADIOS ROCK Y POP",La Retro by Chico Perez Online
 https://s2.radio.co/s9ecef4f68/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/rg4rbgq2qdh6.png" group-title="RADIOS ROCK Y POP",Radio Contemporanea Aconcagua

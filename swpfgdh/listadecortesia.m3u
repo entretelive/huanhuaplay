@@ -3,17 +3,14 @@
 
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
 https://srt.tvdatta.com/canal3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET op2
-https://cloud5.streaminglivehd.com:3112/live/ticklive.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="PPV EVENTOS ( Pay Per View ) ", PPV TICKET op3
-srt://srt.tvdatta.com:8890?streamid=read:canal3
+
 
 #EXTINF:1,-DEPORTES-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gf95w8kz/In-Shot-20250219-214225443.png" group-title="DEPORTES", PPV TICKET
-https://cloud5.streaminglivehd.com:3112/live/ticklive.m3u8?DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="DEPORTES", PPV TICKET
+https://srt.tvdatta.com/canal3/index.m3u8?DEPORTES
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="DEPORTES",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
@@ -26,7 +23,8 @@ https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-CHILE-
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="CHILE", TV-TICKET
+https://srt.tvdatta.com/canal3/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+

@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
 https://srt.tvdatta.com/canal3/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET op2
+https://srt.activameplex.online/srt_can3/index.m3u8
+
 
 #EXTINF:1,-DEPORTES-
 

@@ -4,15 +4,17 @@
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
-https://srt.tvdatta.com/canal3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET op2
-https://srt.tvdatta.com/canal3/index.m3u8?opcion2
+https://s3.tvdatta.com:3500/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2
+https://s3.tvdatta.com:3321/hybrid/play.m3u8
 
 
 #EXTINF:1,-DEPORTES-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="DEPORTES", PPV TICKET
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="DEPORTES", TV TICKET
 https://srt.tvdatta.com/canal3/index.m3u8?DEPORTES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="DEPORTES", TV-TICKET 2
+https://s3.tvdatta.com:3321/hybrid/play.m3u8?DEPORTES
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="DEPORTES",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL

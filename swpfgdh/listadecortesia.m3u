@@ -5,7 +5,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
 https://s3.tvdatta.com:3500/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2 (SOLO EVENTOS)
 https://s3.tvdatta.com:3321/hybrid/play.m3u8
 
 
@@ -13,7 +13,7 @@ https://s3.tvdatta.com:3321/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="DEPORTES", TV TICKET
 https://srt.tvdatta.com/canal3/index.m3u8?DEPORTES
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="DEPORTES", TV-TICKET 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="DEPORTES", TV-TICKET 2 (SOLO EVENTOS)
 https://s3.tvdatta.com:3321/hybrid/play.m3u8?DEPORTES
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="DEPORTES",CHV Deportes
@@ -27,8 +27,11 @@ https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="CHILE", TV-TICKET
-https://srt.tvdatta.com/canal3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="DEPORTES", TV TICKET
+https://srt.tvdatta.com/canal3/index.m3u8?CHILE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="DEPORTES", TV-TICKET 2 (SOLO EVENTOS)
+https://s3.tvdatta.com:3321/hybrid/play.m3u8?CHILE
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+

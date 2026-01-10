@@ -29,6 +29,14 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="TV LITE PLAY",TV LITE 4K
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 
+#EXTINF:1,-PARA LITE-
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 
+http://tvlite.xyz:8080/pp9kpdTTbEwj/n68JuUfegJb5/69146
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2
+http://tvlite.xyz:8080/pp9kpdTTbEwj/n68JuUfegJb5/128746
+
+
 #EXTINF:1,-DEPORTES-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="DEPORTES", TV TICKET

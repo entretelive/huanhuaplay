@@ -3,14 +3,10 @@
 
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET opcion 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET opcion 2
-https://s3.tvdatta.com:3500/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2 (SOLO EVENTOS) opcion 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET 2 (SOLO EVENTOS) opcion 2
-https://s3.tvdatta.com:3321/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365

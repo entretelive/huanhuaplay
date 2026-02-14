@@ -7,6 +7,8 @@
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
@@ -27,11 +29,12 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 
 #EXTINF:1,-PARA LITE-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RG8vxQHj/In-Shot-20251010-162618896.png" group-title="PARA LITE", TV-TICKET 
-http://tvlite.xyz:8080/pp9kpdTTbEwj/n68JuUfegJb5/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jYXf4j0/In-Shot-20251107-191039280.png" group-title="PARA LITE", TV-TICKET 2
-http://tvlite.xyz:8080/pp9kpdTTbEwj/n68JuUfegJb5/128746
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PARA LITE", EVENTOS TICKET 1
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PARA LITE", EVENTOS TICKET 2
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PARA LITE", EVENTOS TICKET 3
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
 #EXTINF:1,-DEPORTES-
 

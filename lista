@@ -13,23 +13,23 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="TV LITE PLAY",TV LITE PLAY
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="CANALES EXCLUSIVOS",TV LITE PLAY
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137365
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULL HD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULLHD 60FPS" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT FULLHD 60FPS
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT (2MB)" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="TV LITE PLAY",TV LITE SPORT (2MB)
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT SD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT SD
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137367
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="TV LITE PLAY",TV LITE SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT 2
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137368
-#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="TV LITE PLAY",TVLITE PPV 1
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="CANALES EXCLUSIVOS",TVLITE PPV 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137369
-#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PS_PPV_2.svg/revision/latest/scale-to-width-down/200?cb=20250118001742" group-title="TV LITE PLAY",TVLITE PPV 2
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PS_PPV_2.svg/revision/latest/scale-to-width-down/200?cb=20250118001742" group-title="CANALES EXCLUSIVOS",TVLITE PPV 2
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137370
-#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Prima_Sport_PPV_3.svg/revision/latest/scale-to-width-down/1000?cb=20250118001004" group-title="TV LITE PLAY",TVLITE PPV 3
+#EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Prima_Sport_PPV_3.svg/revision/latest/scale-to-width-down/1000?cb=20250118001004" group-title="CANALES EXCLUSIVOS",TVLITE PPV 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137371
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="TV LITE PLAY",TV LITE 4K
+#EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="CANALES EXCLUSIVOS",TV LITE 4K
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
+
 
 #EXTINF:1,-DEPORTES-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="DEPORTES", EVENTOS TICKET 1
@@ -109,11 +109,11 @@ https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:0,-MUSICA-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXctRjV/In-Shot-20250102-215045987.png" group-title="MUSICA",+MIX ROCK
-https://s3.tvdatta.com:3912/hybrid/play.m3u8
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/162712
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQ963Cv/In-Shot-20250102-215002775.png" group-title="MUSICA",+MIX RETRO
-https://s3.tvdatta.com:3353/hybrid/play.m3u8
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/162711
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdTjjYr/In-Shot-20250102-215056787.png" group-title="MUSICA",+MIX FIESTA
-https://s3.tvdatta.com:3716/hybrid/play.m3u8
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/162842
 
 #EXTINF:-1 tvg-logo="https://tocahits.com/wp-content/uploads/2025/03/Recursos-Web-1.png", Tocahits
 https://tocahits.online/hls/canal1.m3u8
@@ -441,7 +441,7 @@ https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,-RADIOS TROPICALES-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdTjjYr/In-Shot-20250102-215056787.png" group-title="RADIOS TROPICALES",+MIX FIESTA
-https://s3.tvdatta.com:3716/hybrid/play.m3u8?FIESTA
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/162842?mix
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/26hfjjqc2ulp.png" group-title="RADIOS TROPICALES",Radio Carnaval Antofagasta
 http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/carnaval-la-serena.png" group-title="RADIOS TROPICALES",Radio Carnaval Calama
@@ -493,14 +493,16 @@ http://cast.radioservicios.cl:8316/sanvicente
 #EXTINF:-1 tvg-logo="https://www.radioenergia.cl/new/wp-content/uploads/2020/10/GIF-FINAL.gif" group-title="RADIOS TROPICALES",Energia FM biobio
 https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8
 #EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://www.m3u.cl/logo/1005_Onda_Radio_TV.png"  group-title="RADIOS TROPICALES", Onda Radio 
-https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8 
- 
+https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
+
+
+
 #EXTINF:0,-RADIOS ROCK Y POP-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXctRjV/In-Shot-20250102-215045987.png" group-title="RADIOS ROCK Y POP",+MIX ROCK
-https://s3.tvdatta.com:3912/hybrid/play.m3u8?ROCK
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/162712?mix
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQ963Cv/In-Shot-20250102-215002775.png" group-title="RADIOS ROCK Y POP",+MIX RETRO
-https://s3.tvdatta.com:3353/hybrid/play.m3u8?RETRO
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/162711?mix
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dkjwzjhmsjy6.jpg" group-title="RADIOS ROCK Y POP",La Retro by Chico Perez Online
 https://s2.radio.co/s9ecef4f68/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/rg4rbgq2qdh6.png" group-title="RADIOS ROCK Y POP",Radio Contemporanea Aconcagua

@@ -3,13 +3,11 @@
 
 #EXTINF:1,-PPV EVENTOS ( Pay Per View ) -
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3rXn3hY/In-Shot-20260302-112432556.png" group-title="PPV EVENTOS ( Pay Per View ) ", HTV PLAY 
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/153585
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="PPV EVENTOS ( Pay Per View ) ", TV-TICKET
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="PPV EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
 
@@ -32,12 +30,6 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 
 
 #EXTINF:1,-DEPORTES-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="DEPORTES", EVENTOS TICKET 1
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="DEPORTES", EVENTOS TICKET 2
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="DEPORTES", EVENTOS TICKET 3
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="DEPORTES",CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
@@ -50,8 +42,8 @@ https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G3rXn3hY/In-Shot-20260302-112432556.png" group-title="CHILE", HTV PLAY 
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/153585
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="CHILE", TV-TICKET
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL

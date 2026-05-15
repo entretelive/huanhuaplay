@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:1,EVENTOS ( Pay Per View ) -
+#EXTINF:1,-EVENTOS ( Pay Per View ) -
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET HD
 http://192.168.1.120/ticket/hd.m3u8

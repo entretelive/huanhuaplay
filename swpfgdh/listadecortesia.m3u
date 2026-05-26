@@ -3,9 +3,9 @@
 #EXTINF:1,-EVENTOS ( Pay Per View )-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET HD
-rtsp://186.107.121.65:554/live/1_0
+rtsp://190.22.148.59:554/live/1_0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET SD
-rtsp://186.107.121.65:554/live/1_1
+rtsp://190.22.148.59:554/live/1_1
 
 #EXTINF:1,-DEPORTES-
 

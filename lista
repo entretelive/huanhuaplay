@@ -5,8 +5,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Encoder)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Directa)
 http://192.168.1.120/ts/1_0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Encoder)
+rtsp://190.22.145.122:554/live/1_0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2

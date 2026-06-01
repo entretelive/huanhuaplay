@@ -3,7 +3,7 @@
 #EXTINF:1,-EVENTOS ( Pay Per View )-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET
-rtsp://190.22.145.122:554/live/1_0
+rtsp://190.22.146.168:554/live_1_0
 
 #EXTINF:1,-DEPORTES-
 

@@ -3,7 +3,7 @@
 #EXTINF:1,-EVENTOS ( Pay Per View )-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sxdg4j1/In-Shot-20260608-113846899.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET
-rtsp://186.107.122.130:554/live/1_0
+rtsp://186.107.102.84:554/live/1_0
 
 #EXTINF:1,-DEPORTES-
 

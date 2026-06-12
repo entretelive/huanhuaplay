@@ -7,12 +7,8 @@
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sxdg4j1/In-Shot-20260608-113846899.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET (Señal Directa) HD
 http://192.168.1.120/ts/1_0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sxdg4j1/In-Shot-20260608-113846899.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET (Señal Directa) SD
-http://192.168.1.120/ts/1_1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sxdg4j1/In-Shot-20260608-113846899.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET (Señal Encoder) HD
-rtsp://186.107.122.130:554/live/1_0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sxdg4j1/In-Shot-20260608-113846899.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET (Señal Encoder) SD
-rtsp://186.107.122.130:554/live/1_1
+rtsp://186.107.102.84:554/live/1_0
 #EXTINF:-1 tvg-logo=https://i.ibb.co/JR73jh7z/In-Shot-20260607-175502347.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6myBjTx/In-Shot-20260607-175507862.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET 2

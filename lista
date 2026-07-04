@@ -4,15 +4,15 @@
 #EXTINF:1,-EVENTOS ( Pay Per View ) -
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET
-
+https://srt.tvdatta.com/ticketmix1/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.ibb.co/JR73jh7z/In-Shot-20260607-175502347.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET (señal directa)
 rstp://192.168.1.120/ts/1_0
 #EXTINF:-1 tvg-logo=https://i.ibb.co/JR73jh7z/In-Shot-20260607-175502347.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET (señal encoder)
 rstp://190.22.131.220:554/live/1_0
 #EXTINF:-1 tvg-logo=https://i.ibb.co/JR73jh7z/In-Shot-20260607-175502347.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET 1
-
+https://srt.tvdatta.com/ticketmix2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6myBjTx/In-Shot-20260607-175507862.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET 2
-
+https://srt.tvdatta.com/ticketmix3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqgA0PDqSIjOYowNomkRBjR86ZsJhSR6yJ9g&s" group-title="CANALES EXCLUSIVOS",TV LITE PLAY

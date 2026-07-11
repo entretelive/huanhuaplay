@@ -7,6 +7,9 @@
 http://192.168.1.120/ts/tvticket
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET (Señal Encoder)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET (Señal Server Directo)
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
+srt://srt.tvdatta.com:8890?streamid=read:ticketmix1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET
 https://srt.tvdatta.com/ticketmix1/index.m3u8
 #EXTINF:-1 tvg-logo=https://i.ibb.co/JR73jh7z/In-Shot-20260607-175502347.png" group-title="EVENTOS ( Pay Per View ) ", MUNDIAL TICKET 1

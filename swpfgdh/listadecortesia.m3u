@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET HD
 http://tickcl.ddns.net:8080/ts/tvticket
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ch1HrSS7/In-Shot-20260423-165747076.png" group-title="EVENTOS ( Pay Per View ) ", TV-TICKET SD
-http://tickcl.ddns.net:8080/ts/ticket
+http://tickcl.ddns.net:8080/ts/tvticketsd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 
 https://srt.tvdatta.com/ticketmix2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 

@@ -3,13 +3,10 @@
 
 #EXTINF:1,-EVENTOS ( Pay Per View ) -
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal Directa)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal IP)
 http://192.168.1.120/ts/huanhuatv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal Directa)
 http://huanhuatv.ddns.net:8080/ts/huanhuatv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV SD
-http://huanhuatv.ddns.net:8080/ts/huanhuatvsd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)

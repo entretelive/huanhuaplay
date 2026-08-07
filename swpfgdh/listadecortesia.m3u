@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:1,-EVENTOS ( Pay Per View )-
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET
+http://tickcl.ddns.net:8080/ts/1_0
 
 #EXTINF:1,-DEPORTES-
 

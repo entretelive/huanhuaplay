@@ -3,13 +3,15 @@
 
 #EXTINF:1,-EVENTOS ( Pay Per View ) -
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal server)
+https://dedicated253.cloudhostservers.com:3707/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal server)
 http://tickcl.ddns.net:8080/ts/1_0
@@ -54,22 +56,20 @@ https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
 
 #EXTINF:1,-CHILE-
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="CHILE", HUANHUATV HD
-http://huanhuatv.ddns.net:8080/ts/huanhuatv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="CHILE", HUANHUATV SD
-http://huanhuatv.ddns.net:8080/ts/huanhuatvsd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",LA RED
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+
-https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="CHILE", HUANHUATV
+https://dedicated253.cloudhostservers.com:3707/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/UCV_2_2014.png/revision/latest?cb=20190813044108&path-prefix=es" group-title="CHILE",UCV TV 2
 https://pantera1-100GB-cl-movistar.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="CHILE",TVN
-https://iptv2.intersurtv.cl/TVN/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/La_Red_2021.svg/revision/latest/scale-to-width-down/175?cb= 20210517191249&path-prefix=es" group-title="CHILE",LA RED
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE",TV+
+https://jireh-3-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png" group-title="CHILE",TV CHILE
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png" group-title="CHILE",TVN
+https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="CHILE",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="CHILE",CANAL 24 HORAS

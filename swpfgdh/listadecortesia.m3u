@@ -4464,6 +4464,58 @@ https://player.netv.cl/vidatv/index.m3u8
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8
 #EXTINF:-1 tvg-id="WECN.pr" tvg-name="WECN" tvg-logo="https://i.imgur.com/NYBZBY0.png" tvg-country="PR" tvg-language="spa" group-title="[31] RELIGION",WECN - Puerto Rico
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/26hfjjqc2ulp.png" group-title="[32] RADIO CHILE",Radio Carnaval Antofagasta
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/carnaval-la-serena.png" group-title="[32] RADIO CHILE",Radio Carnaval Calama
+https://sonando-us.digitalproserver.com/carnaval_copiapo.aac
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/carnaval-la-serena.png" group-title="[32] RADIO CHILE",Radio Carnaval La Serena
+https://cp2.streamchileno.cl/listen/radiocarnaval/radio.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/9b5b2ffbxu4m.png" group-title="[32] RADIO CHILE",Radio Carnaval Ovalle
+http://sonando.us.digitalproserver.com/carnaval_ovalle.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/zwawwhn3jeek.png" group-title="[32] RADIO CHILE",Radio Carnaval La Calera
+http://sonando.us.digitalproserver.com/carnaval_quillota.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/l8dnb8epxsk9.png" group-title="[32] RADIO CHILE",Radio Carnaval San Felipe
+http://sonando.us.digitalproserver.com/carnaval_aconcagua.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/prdaseknndup.png" group-title="[32] RADIO CHILE",Radio Carnaval Viña del Mar
+http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/vb4gswqlws28.png" group-title="[32] RADIO CHILE",Radio Carnaval San Antonio
+http://sonando.us.digitalproserver.com/carnaval_sanantonio.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zztytsbjncr4.png" group-title="[32] RADIO CHILE",Radio Carnaval Curico
+https://sonando-us.digitalproserver.com/carnaval_curico.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/dm77mzvl8ehk.png" group-title="[32] RADIO CHILE",Radio Carnaval Punta Arenas
+http://sonando.us.digitalproserver.com/carnaval_puntaarenas.aac
+#EXTINF:-1 tvg-logo="https://radiofestival.b-cdn.net/wp-content/uploads/2018/06/favicon.png" group-title="[32] RADIO CHILE",Radio Festival de Viña del mar
+https://stream.festival.cl/1
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190241g.png" group-title="[32] RADIO CHILE",Punto 7 Valparaíso
+http://unlimited3-cl.dps.live/p7valparaiso/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190241g.png" group-title="[32] RADIO CHILE",Punto 7 Concepción
+http://redirector.dps.live/p7concepcion/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190241g.png" group-title="[32] RADIO CHILE",Punto 7 Los Ángeles
+https://unlimited11-cl.dps.live/p7losangeles/mp3/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190241g.png" group-title="[32] RADIO CHILE",Punto 7 Temuco
+https://unlimited11-cl.dps.live/p7temuco/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190241g.png" group-title="[32] RADIO CHILE",Punto 7 Osorno
+https://unlimited11-cl.dps.live/p7osorno/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s190241g.png" group-title="[32] RADIO CHILE",Punto 7 Puerto Montt
+https://unlimited11-cl.dps.live/p7puertomontt/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/atquz4k2plth.jpeg" group-title="[32] RADIO CHILE",Radio Congreso de Valparaiso
+http://stream5.eltelon.com/radio-congreso.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dkjwzjhmsjy6.jpg" group-title="[32] RADIO CHILE",La Retro by Chico Perez Online
+https://s2.radio.co/s9ecef4f68/listen
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/rg4rbgq2qdh6.png" group-title="[32] RADIO CHILE",Radio Contemporanea Aconcagua
+http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/plbkpc649v9x.jpg" group-title="[32] RADIO CHILE",Maxima FM Online
+https://live.tvcontrolcp.com:1936/maximafmchilenuevo/maximafmchilenuevo/chunklist_w902612875.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/mrPWW3tYcC.png" group-title="[32] RADIO CHILE",Digital FM
+https://unlimited3-cl.dps.live/digitalfm/aac/icecast.audio
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s84637/images/logog.jpg?t=152458" group-title="[32] RADIO CHILE",Radio Ritoque Valparaiso
+http://sonando.us.digitalproserver.com/ritoquefm_aac
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s84637/images/logog.jpg?t=152458" group-title="[32] RADIO CHILE",Radio Ritoque TV
+https://v2.tustreaming.cl/unetev/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.vinafm.cl/vinafm/site/artic/20181205/imag/foto_0000000320181205132824/LOGO_VInAFM_OSCURO_CON_DIAL.png" group-title="[32] RADIO CHILE",Viña FM
+https://vinafm2.janus.cl/playlist/stream.m3u8?s=hd&t=&id=llo63vpv&q=&d=w
+
 #EXTINF:-1 tvg-name="ADN Radio Santiago" tvg-logo="https://cdn.m3u.cl/logo/424_ADN.png" tvg-country="CL" tvg-language="spa" group-title="[32] RADIO CHILE" tvg-source="Reclasificado desde Chile Regionales" radio="true",ADN Radio Santiago
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="AE Radio TV" tvg-logo="https://images.weserv.nl/?url=https%3A%2F%2Fi.imgur.com%2F425dj2i.jpeg&w=512&h=512&fit=contain&output=png" group-title="[32] RADIO CHILE" tvg-country="CL" tvg-language="spa",AE Radio TV

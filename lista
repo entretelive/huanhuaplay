@@ -9,11 +9,11 @@ http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal server)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal server)
 http://tickcl.ddns.net:8080/ts/1_0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal Directa)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal Directa)
 http://192.168.1.120/ts/1_0
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="CANALES EXCLUSIVOS",TV LITE 4K

@@ -3,8 +3,6 @@
 http://tickcl.ddns.net:8080/ts/1_0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET SD
 https://dedicated253.cloudhostservers.com:3707/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="[01] CHILE", HUANHUATV
-https://dedicated253.cloudhostservers.com:3707/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="0713" tvg-name="13 Cocina" tvg-logo="https://cdn.m3u.cl/logo/1683_13_Cocina.png" tvg-country="CL" tvg-language="spa" group-title="[01] CHILE" tvg-source="Reclasificado por contenido; Familia Canal 13 reunida en Chile",13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8
 #EXTINF:-1 tvg-id="0161" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" tvg-country="CL" tvg-language="spa" group-title="[01] CHILE" tvg-source="Familia Canal 13 reunida en Chile",13 Cultura

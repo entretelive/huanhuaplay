@@ -5,12 +5,12 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV (Señal Server)
-https://dedicated253.cloudhostservers.com:3707/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa)
 http://192.168.1.120/ts/1_0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Encoder)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET
 http://tickcl.ddns.net:8080/ts/1_0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET SD
+https://dedicated253.cloudhostservers.com:3707/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 (Señal Lite)
@@ -59,7 +59,7 @@ https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL
 #EXTINF:1,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="CHILE", HUANHUATV
-https://dedicated253.cloudhostservers.com:3707/hybrid/play.m3u8
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/UCV_2_2014.png/revision/latest?cb=20190813044108&path-prefix=es" group-title="CHILE",UCV TV 2

@@ -10,11 +10,11 @@ https://streamfour.cloudhostservers.com:3545/live/v2k8oo175live.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) HD
 http://192.168.1.120/ts/1_0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) SD
-http://192.168.1.120/ts/huanhuatv
+http://192.168.1.120/ts/1_1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET HD
 http://tickcl.ddns.net:8080/ts/1_0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET SD
-http://tickcl.ddns.net:8080/ts/huanhuatv
+http://tickcl.ddns.net:8080/ts/1_1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 (Señal Lite)

@@ -4,11 +4,9 @@
 #EXTINF:1,-EVENTOS ( Pay Per View ) -
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV FULLHD
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/69146
+http://hplaycl.vip:8080/sergioleandro561/3KXzCHgWD74p/259695
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV HD
 https://streamfour.cloudhostservers.com:3545/live/v2k8oo175live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7VRbVhk/In-Shot-20260803-114119113.png" group-title="EVENTOS ( Pay Per View ) ", HUANHUATV SD
-https://origin-us-free.streaminghd.cl/huanhuatv/huanhuatv/medialist_7582170289794468464_hls.m3u8?xcs=884e3fd316bc6e64.1792414607.CF_2CBIiJEUTw0x10IAG8Q
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) HD
 http://192.168.1.120/ts/1_0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET (Señal Directa) SD
@@ -18,22 +16,19 @@ http://tickcl.ddns.net:8080/ts/1_0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0jZjW5W/In-Shot-20260821-084326934.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET SD
 http://tickcl.ddns.net:8080/ts/1_1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFVK1ZRX/In-Shot-20260203-131454759.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 1 (Señal Lite)
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/128746
+http://hplaycl.vip:8080/sergioleandro561/3KXzCHgWD74p/259686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6N2cfs/In-Shot-20260203-131459472.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 2 (Señal Lite)
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/147705
+http://hplaycl.vip:8080/sergioleandro561/3KXzCHgWD74p/259689
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRsxx5Ws/In-Shot-20260213-225859914.png" group-title="EVENTOS ( Pay Per View ) ", EVENTOS TICKET 3 (Señal Lite)
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/239067
+http://hplaycl.vip:8080/sergioleandro561/3KXzCHgWD74p/259692
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE 4K" tvg-logo="https://i.ibb.co/cSqz7ZtY/4K.jpg" group-title="CANALES EXCLUSIVOS",TV LITE 4K
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137372
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT FULLHD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT FULLHD 
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137366
+http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/259698
 #EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT SD" tvg-logo="https://i.ibb.co/7Lbfbbn/unnamed.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT SD
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/214285
-#EXTINF:-1 tvg-id="" tvg-name="TV LITE SPORT 2" tvg-logo="https://i.ibb.co/pvfhxpX7/SPORT2.jpg" group-title="CANALES EXCLUSIVOS",TV LITE SPORT 2
-http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137368
 #EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/PS_PPV_1.svg/revision/latest/scale-to-width-down/200?cb=20250118001249" group-title="CANALES EXCLUSIVOS",TVLITE PPV 1
 http://tvlite.xyz:8080/sergioleandro561/3KXzCHgWD74p/137369
 #EXTINF:-1 tvg-id="" tvg-name="TVLITE PPV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/PS_PPV_2.svg/revision/latest/scale-to-width-down/200?cb=20250118001742" group-title="CANALES EXCLUSIVOS",TVLITE PPV 2
